@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fintech & OCFO Signals · {{ d.date | nice_date }}</title>
+<meta name="description" content="A daily, automatically generated briefing on fintech IPO filings, Office-of-the-CFO software stocks and trending topics.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<style>
+  :root{
+    --paper:#f5f2ea; --card:#fffdf8; --ink:#14161a; --muted:#6b6f78; --rule:#ddd6c6;
+    --accent:#1d4ed8; --up:#0f7b4f; --down:#b42318; --hot:#c2410c; --cool:#2563a8;
+    --mono:"SFMono-Regular",ui-monospace,"JetBrains Mono",Menlo,Consolas,monospace;
+    --serif:"Iowan Old Style","Palatino Linotype",Georgia,serif;
+    --sans:-apple-system,"Segoe UI",Inter,system-ui,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{--paper:#121418;--card:#1a1d23;--ink:#ece8de;--muted:#9a9ea8;--rule:#2c3038;
+          --accent:#7aa2ff;--up:#3fbf86;--down:#ff7a6b;--hot:#ff9a5a;--cool:#7cb6ff}
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.55 var(--sans)}
+  a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header.mast{border-bottom:3px double var(--ink);padding:28px 0 14px;margin-bottom:24px}
+  .kicker{font:600 11px/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+  h1{font:700 clamp(28px,5vw,44px)/1.05 var(--serif);margin:8px 0 6px;letter-spacing:-.01em}
+  .dateline{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center;color:var(--muted);font-size:13px}
+  .dateline .nav a{font-family:var(--mono);font-size:12px}
+  .demo{background:#fff4d6;color:#7a4b00;border:1px solid #f0d48a;padding:10px 14px;border-radius:8px;margin-bottom:18px;font-size:14px}
+  .summary{font:400 19px/1.5 var(--serif);border-left:3px solid var(--accent);padding:4px 0 4px 18px;margin:0 0 8px}
+  .summary-note{font-size:12px;color:var(--muted);margin:0 0 22px 21px}
+  .glance{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin-bottom:30px}
+  .glance div{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:12px 14px;font-size:14px}
+  section{margin:0 0 34px}
+  h2{font:700 13px/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;margin:0 0 4px;
+     padding-bottom:8px;border-bottom:1px solid var(--ink)}
+  .lede{color:var(--muted);font-size:13px;margin:8px 0 12px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th{text-align:left;font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);
+     padding:10px 8px;border-bottom:1px solid var(--rule)}
+  td{padding:9px 8px;border-bottom:1px solid var(--rule);vertical-align:middle}
+  td.num,th.num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+  .up{color:var(--up)} .down{color:var(--down)}
+  .spark.up polyline{stroke:var(--up)} .spark.down polyline{stroke:var(--down)}
+  .chip{display:inline-block;font:500 11px/1 var(--mono);padding:4px 7px;border-radius:99px;
+        border:1px solid var(--rule);color:var(--muted);margin:2px 4px 2px 0;white-space:nowrap}
+  .grid2{display:grid;gap:28px;grid-template-columns:1fr}
+  @media (min-width:880px){.grid2{grid-template-columns:3fr 2fr}}
+  .group{margin-top:18px}
+  .group h3{font:600 15px/1.2 var(--serif);margin:0 0 4px}
+  .group-meta{font:12px var(--mono);color:var(--muted)}
+  .bench{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0 4px}
+  .bench div{background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:8px 12px;font-size:13px}
+  .bench b{font-family:var(--mono);font-weight:600}
+  .trend{display:grid;grid-template-columns:150px 1fr 118px;gap:10px;align-items:center;padding:7px 0;
+         border-bottom:1px solid var(--rule);font-size:14px}
+  .bar{height:8px;background:var(--rule);border-radius:4px;overflow:hidden}
+  .bar i{display:block;height:100%;background:var(--muted)}
+  .trend.heating .bar i,.trend.new .bar i{background:var(--hot)} .trend.cooling .bar i{background:var(--cool)}
+  .sig{font:12px var(--mono);text-align:right;color:var(--muted)}
+  .trend.heating .sig{color:var(--hot);font-weight:700}
+  ul.news{list-style:none;padding:0;margin:8px 0 0}
+  ul.news li{padding:10px 0;border-bottom:1px solid var(--rule)}
+  ul.news a.t{font:600 16px/1.35 var(--serif);color:var(--ink)}
+  .meta{font-size:12px;color:var(--muted);margin-top:3px}
+  .health li{font-size:13px;color:var(--muted)}
+  footer{border-top:3px double var(--ink);padding:18px 0 40px;margin-top:20px;font-size:13px;color:var(--muted);
+         display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+  .archive a{font-family:var(--mono);font-size:12px;margin-right:10px;white-space:nowrap}
+  .empty{color:var(--muted);font-style:italic}
+  @media (max-width:640px){.hide-sm{display:none}.trend{grid-template-columns:110px 1fr 100px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div class="kicker">Daily briefing · Fintech &amp; Office of the CFO</div>
+    <h1>Signals</h1>
+    <div class="dateline">
+      <span>{{ d.date | nice_date }} · generated {{ d.generated_at[11:16] }} UTC</span>
+      <span class="nav">
+        {% if older %}<a href="{{ root }}d/{{ older }}.html">← {{ older }}</a>{% endif %}
+        {% if newer %}&nbsp;<a href="{{ root }}d/{{ newer }}.html">{{ newer }} →</a>{% endif %}
+        &nbsp;<a href="{{ root }}index.html">latest</a>
+      </span>
+    </div>
+  </header>
+
+  {% if d.demo %}<div class="demo"><b>Demo data.</b> Every company, ticker, price and headline on this page is fictional.</div>{% endif %}
+  {% if d.summary %}
+    <p class="summary">{{ d.summary }}</p>
+    <p class="summary-note">Summary written by Claude from the data on this page.</p>
+  {% endif %}
+  {% if glance %}<div class="glance">{% for g in glance %}<div>{{ g | replace("**","") }}</div>{% endfor %}</div>{% endif %}
+
+  <section>
+    <h2>IPO signals</h2>
+    <p class="lede">S-1 / F-1 registration statements from the last {{ d.config_lookback }} days that mention fintech or finance-software terms. A filing is an early signal, not a guarantee of a listing.</p>
+    {% if d.filings %}
+    <table>
+      <tr><th>Company</th><th>Form</th><th>Filed</th><th class="hide-sm">Industry</th><th class="hide-sm">Matched</th></tr>
+      {% for f in d.filings %}
+      <tr><td><a href="{{ f.url }}">{{ f.company }}</a></td><td>{{ f.form }}</td><td class="num">{{ f.filed }}</td>
+          <td class="hide-sm">{{ f.industry }}</td>
+          <td class="hide-sm">{% for k in f.keywords %}<span class="chip">{{ k }}</span>{% endfor %}</td></tr>
+      {% endfor %}
+    </table>
+    {% elif d.filings is none %}<p class="empty">SEC EDGAR was unreachable on this run.</p>
+    {% else %}<p class="empty">No matching filings in this window.</p>{% endif %}
+  </section>
+
+  <div class="grid2">
+  <section>
+    <h2>Market</h2>
+    {% set m = d.market %}
+    {% if m %}
+      <div class="bench">
+        {% for b in m.benchmarks %}<div>{{ b.name }} <b class="{{ 'up' if (b.chg_1m or 0) >= 0 else 'down' }}">{{ b.chg_1m | pct }}</b> 1M</div>{% endfor %}
+      </div>
+      {% for g in m.group_summary %}
+      {% set rows = m.groups[g.group] %}
+      <div class="group">
+        <h3>{{ g.group }}</h3>
+        <div class="group-meta">avg {{ g.avg_1m | pct }} 1M{% if g.vs_bench is not none %} · {{ '%+.1f' % g.vs_bench }} pts vs {{ m.primary_benchmark }}{% endif %}</div>
+        <table>
+          <tr><th>Ticker</th><th class="num">Price</th><th class="num">1D</th><th class="num">5D</th><th class="num hide-sm">1M</th><th class="hide-sm">30 days</th></tr>
+          {% for r in rows %}
+          <tr><td title="{{ r.name }}"><b>{{ r.ticker }}</b> <span class="hide-sm" style="color:var(--muted)">{{ r.name }}</span></td>
+            <td class="num">{{ '{:,.2f}'.format(r.price) }}</td>
+            {% for k in ['chg_1d','chg_5d'] %}<td class="num {{ 'up' if (r[k] or 0) > 0 else 'down' if (r[k] or 0) < 0 }}">{{ r[k] | pct }}</td>{% endfor %}
+            <td class="num hide-sm {{ 'up' if (r.chg_1m or 0) > 0 else 'down' if (r.chg_1m or 0) < 0 }}">{{ r.chg_1m | pct }}</td>
+            <td class="hide-sm">{{ r.spark | spark | safe }}</td></tr>
+          {% endfor %}
+        </table>
+      </div>
+      {% endfor %}
+    {% else %}<p class="empty">Market data was unavailable on this run.</p>{% endif %}
+  </section>
+
+  <section>
+    <h2>Trending topics</h2>
+    <p class="lede">Mentions in today's headlines compared with the recent average.</p>
+    {% set top = (d.trends | map(attribute='count') | max) if d.trends else 1 %}
+    {% for t in d.trends %}
+    <div class="trend {{ t.signal }}">
+      <span>{{ t.topic }}</span>
+      <span class="bar"><i style="width:{{ (100 * t.count / (top or 1)) | round }}%"></i></span>
+      <span class="sig">{{ t.count }} · {{ signal_label[t.signal].split(' ',1)[-1] if t.signal != 'quiet' else 'quiet' }}</span>
+    </div>
+    {% endfor %}
+  </section>
+  </div>
+
+  <section>
+    <h2>Headlines</h2>
+    {% if d.news %}
+    <ul class="news">
+      {% for n in d.news %}
+      <li><a class="t" href="{{ n.url }}">{{ n.title }}</a>
+        <div class="meta">{{ n.source }}{% if n.published %} · {{ n.published[:10] }}{% endif %}
+          {% for t in n.topics %}<span class="chip">{{ t }}</span>{% endfor %}</div></li>
+      {% endfor %}
+    </ul>
+    {% else %}<p class="empty">No headlines on this run.</p>{% endif %}
+  </section>
+
+  <section class="health">
+    <h2>Source health</h2>
+    <ul>{% for s in d.health %}<li>{{ '✅' if s.ok else '⚠️' }} <b>{{ s.source }}</b>: {{ s.detail }}</li>{% endfor %}</ul>
+  </section>
+
+  <footer>
+    <div class="archive">Archive: {% for a in archive %}<a href="{{ root }}d/{{ a.date }}.html">{{ a.date }}</a>{% endfor %}</div>
+    <div>Built automatically by <a href="{{ repo }}">fintech-signal-tracker</a> on GitHub Actions. Public data only. Not investment advice.</div>
+  </footer>
+</div>
+</body>
+</html>
