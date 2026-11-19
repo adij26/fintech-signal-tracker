@@ -1,0 +1,64 @@
+name: Daily digest
+
+on:
+  schedule:
+    # Weekdays at 14:23 UTC (6:23 am Pacific in winter, 7:23 am in summer),
+    # before US markets open, so prices reflect the previous close.
+    - cron: "23 14 * * 1-5"
+  workflow_dispatch:   # adds a "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write      # commit the new digest back to the repo
+  pages: write         # publish the website
+  id-token: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -e .
+
+      - name: Gather signals and build the digest
+        env:
+          # Optional repo secrets. Without them the tracker still runs:
+          # SEC_USER_AGENT  -> "Your Name your@email.com" (SEC asks bots to identify themselves)
+          # ANTHROPIC_API_KEY -> turns on the AI summary paragraph
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m signal_tracker
+
+      - name: Show the digest in the run summary
+        run: cat digests/latest.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit today's digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data digests
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit"
+          else
+            git commit -m "Digest for $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
