@@ -1,0 +1,87 @@
+# What the tracker watches. Edit this file to change the digest; no code changes needed.
+
+# ---------------------------------------------------------------- IPO signals
+# Registration statements (S-1 for US companies, F-1 for foreign ones) are the
+# earliest public sign that a company plans to list. We search SEC EDGAR's
+# full-text search for recent filings that mention these phrases.
+edgar:
+  forms: ["S-1", "F-1"]
+  lookback_days: 30
+  keywords:
+    - "fintech"
+    - "payments platform"
+    - "embedded finance"
+    - "office of the CFO"
+    - "accounts payable automation"
+    - "spend management"
+    - "stablecoin"
+    - "neobank"
+    - "financial operations software"
+  # SIC codes used to label the industry. 6770 = blank-check companies (SPACs),
+  # which mention "fintech" constantly without being fintechs; excluded by default.
+  exclude_sics: ["6770"]
+  max_results: 25
+
+# ---------------------------------------------------------------- Market data
+# Public companies to track, grouped. Benchmarks are compared against.
+# Tickers change (IPOs, take-privates, renames), so review this list now and then.
+watchlist:
+  benchmarks:
+    SPY: "S&P 500 (SPY)"
+    FINX: "Global X FinTech ETF"
+  groups:
+    "Office of the CFO software":
+      INTU: Intuit
+      WDAY: Workday
+      BILL: BILL Holdings
+      BL: BlackLine
+      ADP: ADP
+      PAYX: Paychex
+    "Payments & lending":
+      PYPL: PayPal
+      XYZ: Block
+      AFRM: Affirm
+      SOFI: SoFi
+      TOST: Toast
+    "Crypto & trading":
+      COIN: Coinbase
+      HOOD: Robinhood
+    "Recent fintech IPOs":
+      CRCL: Circle
+      CHYM: Chime
+      KLAR: Klarna
+
+# ---------------------------------------------------------------- News
+news:
+  lookback_days: 3
+  max_items: 25
+  feeds:
+    CFO Dive: https://www.cfodive.com/feeds/news/
+    Payments Dive: https://www.paymentsdive.com/feeds/news/
+    Banking Dive: https://www.bankingdive.com/feeds/news/
+    TechCrunch Fintech: https://techcrunch.com/category/fintech/feed/
+    "Google News: fintech IPO": https://news.google.com/rss/search?q=fintech+IPO+when:7d&hl=en-US&gl=US&ceid=US:en
+    "Google News: CFO + AI": https://news.google.com/rss/search?q=%22CFO%22+AI+finance+when:7d&hl=en-US&gl=US&ceid=US:en
+    "Google News: fintech funding": https://news.google.com/rss/search?q=fintech+raises+funding+round+when:7d&hl=en-US&gl=US&ceid=US:en
+
+# ---------------------------------------------------------------- Trends
+# Topics counted across headlines each run. A topic is "heating up" when it shows
+# up much more than its recent average. Each topic can have several phrasings.
+trends:
+  "Agentic AI": ["agentic", "ai agent", "ai agents"]
+  "AI in finance": ["ai-powered", "generative ai", "genai", "llm", "copilot"]
+  "Stablecoins": ["stablecoin", "stablecoins", "usdc", "genius act"]
+  "IPOs": ["ipo", "files to go public", "public listing", "s-1"]
+  "Funding rounds": ["raises", "series a", "series b", "series c", "funding round"]
+  "M&A": ["acquire", "acquires", "acquisition", "merger", "take-private", "to buy"]
+  "Embedded finance": ["embedded finance", "embedded payments", "banking-as-a-service", "baas"]
+  "Real-time payments": ["real-time payments", "fednow", "instant payments", "rtp"]
+  "Close & FP&A automation": ["month-end close", "fp&a", "close automation", "accounts payable", "procure-to-pay"]
+  "Regulation": ["cfpb", "sec ", "regulator", "regulation", "compliance", "occ"]
+  "Fraud & risk": ["fraud", "scam", "aml", "kyc"]
+
+# ---------------------------------------------------------------- AI summary (optional)
+# Runs only when an ANTHROPIC_API_KEY secret is set on the repo.
+summary:
+  model: claude-haiku-5-5
+  max_tokens: 400
