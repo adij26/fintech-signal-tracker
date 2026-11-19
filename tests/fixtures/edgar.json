@@ -1,0 +1,109 @@
+{
+ "hits": {
+  "total": {
+   "value": 4
+  },
+  "hits": [
+   {
+    "_index": "edgar_file",
+    "_id": "1727058325-26-145354:d78218s1.htm",
+    "_score": 9.1,
+    "_source": {
+     "ciks": [
+      "0002011001"
+     ],
+     "display_names": [
+      "Vaultline Financial, Inc.  (CIK 0002011001)"
+     ],
+     "form": "S-1",
+     "root_forms": [
+      "S-1"
+     ],
+     "file_date": "2026-11-17",
+     "adsh": "1727058325-26-145354",
+     "sics": [
+      "6199"
+     ],
+     "biz_states": [
+      "CA"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "1129588228-26-636337:d36148s1.htm",
+    "_score": 9.1,
+    "_source": {
+     "ciks": [
+      "0002011002"
+     ],
+     "display_names": [
+      "Closebook Technologies Corp  (CIK 0002011002)"
+     ],
+     "form": "S-1",
+     "root_forms": [
+      "S-1"
+     ],
+     "file_date": "2026-11-12",
+     "adsh": "1129588228-26-636337",
+     "sics": [
+      "7372"
+     ],
+     "biz_states": [
+      "NY"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "1422554628-26-464032:d79363s1.htm",
+    "_score": 9.1,
+    "_source": {
+     "ciks": [
+      "0002011003"
+     ],
+     "display_names": [
+      "Remitora Global Ltd  (CIK 0002011003)"
+     ],
+     "form": "F-1",
+     "root_forms": [
+      "F-1"
+     ],
+     "file_date": "2026-11-06",
+     "adsh": "1422554628-26-464032",
+     "sics": [
+      "7374"
+     ],
+     "biz_states": [
+      "L2"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "1310703243-26-713108:d29432s1.htm",
+    "_score": 9.1,
+    "_source": {
+     "ciks": [
+      "0002011004"
+     ],
+     "display_names": [
+      "Fintech Acquisition Corp IX  (FTAC)  (CIK 0002011004)"
+     ],
+     "form": "S-1",
+     "root_forms": [
+      "S-1"
+     ],
+     "file_date": "2026-11-14",
+     "adsh": "1310703243-26-713108",
+     "sics": [
+      "6770"
+     ],
+     "biz_states": [
+      "DE"
+     ]
+    }
+   }
+  ]
+ }
+}
