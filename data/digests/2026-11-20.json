@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T01:19+00:00",
+ "generated_at": "2026-11-20T15:18+00:00",
  "config_lookback": 30,
  "health": [
   {
@@ -16,7 +16,7 @@
   {
    "source": "News feeds",
    "ok": true,
-   "detail": "81 headlines from 7 feeds"
+   "detail": "83 headlines from 7 feeds"
   }
  ],
  "filings": [
@@ -390,15 +390,13 @@
     "ticker": "SPY",
     "name": "S&P 500 (SPY)",
     "source": "yahoo",
-    "price": 730.2,
-    "chg_1d": -0.31,
-    "chg_5d": -3.9,
-    "chg_1m": -5.05,
-    "chg_3m": -4.25,
-    "off_high": -6.28,
+    "price": 712.5,
+    "chg_1d": -0.47,
+    "chg_5d": -5.55,
+    "chg_1m": -6.74,
+    "chg_3m": -6.68,
+    "off_high": -8.55,
     "spark": [
-     773.93,
-     778.57,
      778.1,
      778.01,
      769.6,
@@ -426,22 +424,22 @@
      754.37,
      739.95,
      732.44,
-     730.2
+     730.2,
+     715.87,
+     712.5
     ]
    },
    {
     "ticker": "FINX",
     "name": "Global X FinTech ETF",
     "source": "yahoo",
-    "price": 22.72,
-    "chg_1d": -1.02,
-    "chg_5d": -7.77,
-    "chg_1m": -7.98,
-    "chg_3m": -15.27,
-    "off_high": -26.13,
+    "price": 21.89,
+    "chg_1d": 0.0,
+    "chg_5d": -9.13,
+    "chg_1m": -12.23,
+    "chg_3m": -20.17,
+    "off_high": -28.82,
     "spark": [
-     24.55,
-     24.99,
      24.89,
      24.92,
      24.1,
@@ -469,7 +467,9 @@
      24.09,
      23.55,
      22.95,
-     22.72
+     22.72,
+     21.89,
+     21.89
     ]
    }
   ],
@@ -479,15 +479,13 @@
      "ticker": "INTU",
      "name": "Intuit",
      "source": "yahoo",
-     "price": 313.24,
-     "chg_1d": -2.35,
-     "chg_5d": -8.58,
-     "chg_1m": -6.58,
-     "chg_3m": -13.44,
-     "off_high": -53.7,
+     "price": 296.92,
+     "chg_1d": -4.23,
+     "chg_5d": -13.11,
+     "chg_1m": -16.34,
+     "chg_3m": -19.73,
+     "off_high": -56.11,
      "spark": [
-      303.88,
-      302.75,
       305.99,
       301.45,
       310.44,
@@ -515,22 +513,22 @@
       341.7,
       345.56,
       320.79,
-      313.24
+      313.24,
+      310.02,
+      296.92
      ]
     },
     {
      "ticker": "WDAY",
      "name": "Workday",
      "source": "yahoo",
-     "price": 177.45,
-     "chg_1d": -2.93,
-     "chg_5d": -7.17,
-     "chg_1m": -13.01,
-     "chg_3m": -10.07,
-     "off_high": -24.07,
+     "price": 180.09,
+     "chg_1d": 3.88,
+     "chg_5d": -8.33,
+     "chg_1m": -14.24,
+     "chg_3m": -9.57,
+     "off_high": -22.94,
      "spark": [
-      187.81,
-      186.59,
       188.25,
       186.02,
       188.77,
@@ -558,22 +556,22 @@
       196.45,
       194.06,
       182.8,
-      177.45
+      177.45,
+      173.36,
+      180.09
      ]
     },
     {
      "ticker": "BILL",
      "name": "BILL Holdings",
      "source": "yahoo",
-     "price": 66.01,
-     "chg_1d": 1.74,
-     "chg_5d": 21.28,
-     "chg_1m": 34.47,
-     "chg_3m": 39.26,
-     "off_high": 0.0,
+     "price": 61.6,
+     "chg_1d": -3.88,
+     "chg_5d": 13.06,
+     "chg_1m": 21.56,
+     "chg_3m": 27.9,
+     "off_high": -6.69,
      "spark": [
-      44.98,
-      44.83,
       44.17,
       43.98,
       44.18,
@@ -601,22 +599,22 @@
       54.48,
       57.63,
       64.88,
-      66.01
+      66.01,
+      64.08,
+      61.6
      ]
     },
     {
      "ticker": "BL",
      "name": "BlackLine",
      "source": "yahoo",
-     "price": 24.68,
-     "chg_1d": -8.08,
-     "chg_5d": -9.99,
-     "chg_1m": -20.97,
-     "chg_3m": -22.68,
-     "off_high": -58.05,
+     "price": 25.81,
+     "chg_1d": 5.18,
+     "chg_5d": -12.6,
+     "chg_1m": -24.91,
+     "chg_3m": -19.29,
+     "off_high": -56.13,
      "spark": [
-      29.25,
-      29.77,
       29.3,
       29.51,
       29.32,
@@ -644,22 +642,22 @@
       29.53,
       28.42,
       26.85,
-      24.68
+      24.68,
+      24.54,
+      25.81
      ]
     },
     {
      "ticker": "ADP",
      "name": "ADP",
      "source": "yahoo",
-     "price": 305.57,
-     "chg_1d": -0.88,
-     "chg_5d": -0.26,
-     "chg_1m": 4.38,
-     "chg_3m": 9.44,
-     "off_high": -2.51,
+     "price": 307.12,
+     "chg_1d": 1.97,
+     "chg_5d": -0.91,
+     "chg_1m": -0.27,
+     "chg_3m": 8.52,
+     "off_high": -2.01,
      "spark": [
-      270.73,
-      270.88,
       273.81,
       275.9,
       280.32,
@@ -687,22 +685,22 @@
       309.93,
       313.43,
       308.29,
-      305.57
+      305.57,
+      301.19,
+      307.12
      ]
     },
     {
      "ticker": "PAYX",
      "name": "Paychex",
      "source": "yahoo",
-     "price": 113.67,
-     "chg_1d": -0.38,
-     "chg_5d": -1.47,
-     "chg_1m": 0.93,
-     "chg_3m": -7.52,
-     "off_high": -10.74,
+     "price": 114.85,
+     "chg_1d": 3.1,
+     "chg_5d": -0.72,
+     "chg_1m": -3.33,
+     "chg_3m": -8.86,
+     "off_high": -9.81,
      "spark": [
-      104.46,
-      103.98,
       104.64,
       106.25,
       108.37,
@@ -730,7 +728,9 @@
       115.68,
       117.77,
       114.1,
-      113.67
+      113.67,
+      111.4,
+      114.85
      ]
     }
    ],
@@ -739,15 +739,13 @@
      "ticker": "PYPL",
      "name": "PayPal",
      "source": "yahoo",
-     "price": 57.89,
-     "chg_1d": -0.38,
-     "chg_5d": -2.67,
-     "chg_1m": 1.31,
-     "chg_3m": -7.08,
-     "off_high": -7.97,
+     "price": 54.99,
+     "chg_1d": -2.45,
+     "chg_5d": -7.24,
+     "chg_1m": -4.42,
+     "chg_3m": -10.85,
+     "off_high": -12.58,
      "spark": [
-      55.02,
-      55.53,
       56.05,
       56.17,
       56.1,
@@ -775,22 +773,22 @@
       59.28,
       58.83,
       58.11,
-      57.89
+      57.89,
+      56.37,
+      54.99
      ]
     },
     {
      "ticker": "XYZ",
      "name": "Block",
      "source": "yahoo",
-     "price": 79.01,
-     "chg_1d": -0.38,
-     "chg_5d": -7.83,
-     "chg_1m": 1.17,
-     "chg_3m": -1.34,
-     "off_high": -10.78,
+     "price": 73.74,
+     "chg_1d": -0.67,
+     "chg_5d": -12.82,
+     "chg_1m": -6.69,
+     "chg_3m": -9.39,
+     "off_high": -16.74,
      "spark": [
-      75.23,
-      77.24,
       76.82,
       76.86,
       75.85,
@@ -818,22 +816,22 @@
       84.58,
       82.96,
       79.31,
-      79.01
+      79.01,
+      74.23,
+      73.74
      ]
     },
     {
      "ticker": "AFRM",
      "name": "Affirm",
      "source": "yahoo",
-     "price": 58.91,
-     "chg_1d": -0.89,
-     "chg_5d": -13.16,
-     "chg_1m": -20.23,
-     "chg_3m": -21.51,
-     "off_high": -31.32,
+     "price": 56.82,
+     "chg_1d": -0.16,
+     "chg_5d": -12.73,
+     "chg_1m": -21.52,
+     "chg_3m": -26.09,
+     "off_high": -33.76,
      "spark": [
-      77.15,
-      80.7,
       78.63,
       77.89,
       70.51,
@@ -861,22 +859,22 @@
       65.11,
       62.71,
       59.44,
-      58.91
+      58.91,
+      56.91,
+      56.82
      ]
     },
     {
      "ticker": "SOFI",
      "name": "SoFi",
      "source": "yahoo",
-     "price": 14.11,
-     "chg_1d": -1.19,
-     "chg_5d": -13.28,
-     "chg_1m": -3.88,
-     "chg_3m": -21.26,
-     "off_high": -52.52,
+     "price": 13.35,
+     "chg_1d": -1.33,
+     "chg_5d": -13.42,
+     "chg_1m": -9.61,
+     "chg_3m": -26.81,
+     "off_high": -55.08,
      "spark": [
-      15.61,
-      15.8,
       15.23,
       15.24,
       14.22,
@@ -904,22 +902,22 @@
       15.42,
       14.85,
       14.28,
-      14.11
+      14.11,
+      13.53,
+      13.35
      ]
     },
     {
      "ticker": "TOST",
      "name": "Toast",
      "source": "yahoo",
-     "price": 34.0,
-     "chg_1d": 1.04,
-     "chg_5d": -0.29,
-     "chg_1m": 4.13,
-     "chg_3m": -3.74,
-     "off_high": -8.8,
+     "price": 32.26,
+     "chg_1d": 1.3,
+     "chg_5d": -6.96,
+     "chg_1m": -3.46,
+     "chg_3m": -12.11,
+     "off_high": -13.45,
      "spark": [
-      30.53,
-      31.31,
       31.32,
       30.89,
       29.85,
@@ -947,7 +945,9 @@
       34.68,
       35.0,
       33.65,
-      34.0
+      34.0,
+      31.85,
+      32.26
      ]
     }
    ],
@@ -956,15 +956,13 @@
      "ticker": "COIN",
      "name": "Coinbase",
      "source": "yahoo",
-     "price": 110.51,
-     "chg_1d": -3.92,
-     "chg_5d": -18.9,
-     "chg_1m": -35.32,
-     "chg_3m": -35.88,
-     "off_high": -60.16,
+     "price": 108.54,
+     "chg_1d": -0.3,
+     "chg_5d": -14.97,
+     "chg_1m": -35.81,
+     "chg_3m": -39.52,
+     "off_high": -60.86,
      "spark": [
-      172.0,
-      179.39,
       180.39,
       181.79,
       172.89,
@@ -992,22 +990,22 @@
       127.65,
       119.84,
       115.02,
-      110.51
+      110.51,
+      108.87,
+      108.54
      ]
     },
     {
      "ticker": "HOOD",
      "name": "Robinhood",
      "source": "yahoo",
-     "price": 69.17,
-     "chg_1d": -0.03,
-     "chg_5d": -18.22,
-     "chg_1m": -29.57,
-     "chg_3m": -27.27,
-     "off_high": -49.54,
+     "price": 66.68,
+     "chg_1d": -2.87,
+     "chg_5d": -14.36,
+     "chg_1m": -30.96,
+     "chg_3m": -35.65,
+     "off_high": -51.36,
      "spark": [
-      107.01,
-      109.02,
       109.22,
       110.52,
       101.08,
@@ -1035,7 +1033,9 @@
       77.86,
       72.06,
       69.19,
-      69.17
+      69.17,
+      68.65,
+      66.68
      ]
     }
    ],
@@ -1044,15 +1044,13 @@
      "ticker": "CRCL",
      "name": "Circle",
      "source": "yahoo",
-     "price": 53.31,
-     "chg_1d": -2.42,
-     "chg_5d": -20.58,
-     "chg_1m": -37.92,
-     "chg_3m": -36.28,
-     "off_high": -59.87,
+     "price": 51.03,
+     "chg_1d": -1.64,
+     "chg_5d": -17.96,
+     "chg_1m": -41.09,
+     "chg_3m": -41.83,
+     "off_high": -61.59,
      "spark": [
-      80.84,
-      84.51,
       83.87,
       84.27,
       79.55,
@@ -1080,22 +1078,22 @@
       62.2,
       57.65,
       54.63,
-      53.31
+      53.31,
+      51.88,
+      51.03
      ]
     },
     {
      "ticker": "CHYM",
      "name": "Chime",
      "source": "yahoo",
-     "price": 32.22,
-     "chg_1d": -2.27,
-     "chg_5d": -2.6,
-     "chg_1m": 5.78,
-     "chg_3m": 0.85,
-     "off_high": -6.74,
+     "price": 30.8,
+     "chg_1d": -0.16,
+     "chg_5d": -8.2,
+     "chg_1m": 2.12,
+     "chg_3m": -5.81,
+     "off_high": -10.85,
      "spark": [
-      28.96,
-      30.08,
       30.45,
       29.9,
       29.0,
@@ -1123,22 +1121,22 @@
       33.55,
       34.29,
       32.97,
-      32.22
+      32.22,
+      30.85,
+      30.8
      ]
     },
     {
      "ticker": "KLAR",
      "name": "Klarna",
      "source": "yahoo",
-     "price": 14.45,
-     "chg_1d": 1.26,
-     "chg_5d": 7.28,
-     "chg_1m": 9.89,
-     "chg_3m": 3.21,
-     "off_high": -55.54,
+     "price": 12.49,
+     "chg_1d": -1.38,
+     "chg_5d": -9.46,
+     "chg_1m": -5.56,
+     "chg_3m": -11.45,
+     "off_high": -61.55,
      "spark": [
-      13.46,
-      14.06,
       13.86,
       13.38,
       13.16,
@@ -1166,7 +1164,9 @@
       13.8,
       13.63,
       14.27,
-      14.45
+      14.45,
+      12.67,
+      12.49
      ]
     }
    ]
@@ -1176,23 +1176,23 @@
   "group_summary": [
    {
     "group": "Office of the CFO software",
-    "avg_1m": -0.13,
-    "vs_bench": 4.92
+    "avg_1m": -6.25,
+    "vs_bench": 0.49
    },
    {
     "group": "Payments & lending",
-    "avg_1m": -3.5,
-    "vs_bench": 1.55
+    "avg_1m": -9.14,
+    "vs_bench": -2.4
    },
    {
     "group": "Crypto & trading",
-    "avg_1m": -32.45,
-    "vs_bench": -27.4
+    "avg_1m": -33.39,
+    "vs_bench": -26.65
    },
    {
     "group": "Recent fintech IPOs",
-    "avg_1m": -7.42,
-    "vs_bench": -2.37
+    "avg_1m": -14.84,
+    "vs_bench": -8.1
    }
   ],
   "losers": [
@@ -1200,15 +1200,13 @@
     "ticker": "CRCL",
     "name": "Circle",
     "source": "yahoo",
-    "price": 53.31,
-    "chg_1d": -2.42,
-    "chg_5d": -20.58,
-    "chg_1m": -37.92,
-    "chg_3m": -36.28,
-    "off_high": -59.87,
+    "price": 51.03,
+    "chg_1d": -1.64,
+    "chg_5d": -17.96,
+    "chg_1m": -41.09,
+    "chg_3m": -41.83,
+    "off_high": -61.59,
     "spark": [
-     80.84,
-     84.51,
      83.87,
      84.27,
      79.55,
@@ -1236,22 +1234,22 @@
      62.2,
      57.65,
      54.63,
-     53.31
+     53.31,
+     51.88,
+     51.03
     ]
    },
    {
     "ticker": "COIN",
     "name": "Coinbase",
     "source": "yahoo",
-    "price": 110.51,
-    "chg_1d": -3.92,
-    "chg_5d": -18.9,
-    "chg_1m": -35.32,
-    "chg_3m": -35.88,
-    "off_high": -60.16,
+    "price": 108.54,
+    "chg_1d": -0.3,
+    "chg_5d": -14.97,
+    "chg_1m": -35.81,
+    "chg_3m": -39.52,
+    "off_high": -60.86,
     "spark": [
-     172.0,
-     179.39,
      180.39,
      181.79,
      172.89,
@@ -1279,22 +1277,22 @@
      127.65,
      119.84,
      115.02,
-     110.51
+     110.51,
+     108.87,
+     108.54
     ]
    },
    {
     "ticker": "HOOD",
     "name": "Robinhood",
     "source": "yahoo",
-    "price": 69.17,
-    "chg_1d": -0.03,
-    "chg_5d": -18.22,
-    "chg_1m": -29.57,
-    "chg_3m": -27.27,
-    "off_high": -49.54,
+    "price": 66.68,
+    "chg_1d": -2.87,
+    "chg_5d": -14.36,
+    "chg_1m": -30.96,
+    "chg_3m": -35.65,
+    "off_high": -51.36,
     "spark": [
-     107.01,
-     109.02,
      109.22,
      110.52,
      101.08,
@@ -1322,7 +1320,9 @@
      77.86,
      72.06,
      69.19,
-     69.17
+     69.17,
+     68.65,
+     66.68
     ]
    }
   ],
@@ -1331,15 +1331,13 @@
     "ticker": "BILL",
     "name": "BILL Holdings",
     "source": "yahoo",
-    "price": 66.01,
-    "chg_1d": 1.74,
-    "chg_5d": 21.28,
-    "chg_1m": 34.47,
-    "chg_3m": 39.26,
-    "off_high": 0.0,
+    "price": 61.6,
+    "chg_1d": -3.88,
+    "chg_5d": 13.06,
+    "chg_1m": 21.56,
+    "chg_3m": 27.9,
+    "off_high": -6.69,
     "spark": [
-     44.98,
-     44.83,
      44.17,
      43.98,
      44.18,
@@ -1367,65 +1365,65 @@
      54.48,
      57.63,
      64.88,
-     66.01
+     66.01,
+     64.08,
+     61.6
     ]
    },
    {
-    "ticker": "KLAR",
-    "name": "Klarna",
+    "ticker": "PAYX",
+    "name": "Paychex",
     "source": "yahoo",
-    "price": 14.45,
-    "chg_1d": 1.26,
-    "chg_5d": 7.28,
-    "chg_1m": 9.89,
-    "chg_3m": 3.21,
-    "off_high": -55.54,
+    "price": 114.85,
+    "chg_1d": 3.1,
+    "chg_5d": -0.72,
+    "chg_1m": -3.33,
+    "chg_3m": -8.86,
+    "off_high": -9.81,
     "spark": [
-     13.46,
-     14.06,
-     13.86,
-     13.38,
-     13.16,
-     13.51,
-     13.02,
-     13.08,
-     13.15,
-     13.12,
-     13.23,
-     12.81,
-     12.62,
-     12.69,
-     13.16,
-     13.65,
-     13.3,
-     13.38,
-     13.22,
-     13.89,
-     13.53,
-     13.6,
-     13.46,
-     13.14,
-     13.47,
-     12.71,
-     13.8,
-     13.63,
-     14.27,
-     14.45
+     104.64,
+     106.25,
+     108.37,
+     110.78,
+     111.63,
+     110.75,
+     112.62,
+     112.5,
+     118.81,
+     118.04,
+     115.7,
+     109.26,
+     108.21,
+     109.37,
+     112.12,
+     115.49,
+     115.65,
+     118.71,
+     119.5,
+     117.06,
+     114.76,
+     116.2,
+     115.37,
+     115.18,
+     115.68,
+     117.77,
+     114.1,
+     113.67,
+     111.4,
+     114.85
     ]
    },
    {
     "ticker": "ADP",
     "name": "ADP",
     "source": "yahoo",
-    "price": 305.57,
-    "chg_1d": -0.88,
-    "chg_5d": -0.26,
-    "chg_1m": 4.38,
-    "chg_3m": 9.44,
-    "off_high": -2.51,
+    "price": 307.12,
+    "chg_1d": 1.97,
+    "chg_5d": -0.91,
+    "chg_1m": -0.27,
+    "chg_3m": 8.52,
+    "off_high": -2.01,
     "spark": [
-     270.73,
-     270.88,
      273.81,
      275.9,
      280.32,
@@ -1453,22 +1451,24 @@
      309.93,
      313.43,
      308.29,
-     305.57
+     305.57,
+     301.19,
+     307.12
     ]
    }
   ]
  },
  "trends": [
   {
-   "topic": "Funding rounds",
-   "count": 22,
-   "avg": 21,
+   "topic": "IPOs",
+   "count": 21,
+   "avg": 19,
    "signal": "new"
   },
   {
-   "topic": "IPOs",
-   "count": 19,
-   "avg": 19,
+   "topic": "Funding rounds",
+   "count": 21,
+   "avg": 21,
    "signal": "new"
   },
   {
@@ -1487,6 +1487,12 @@
    "topic": "M&A",
    "count": 1,
    "avg": 1,
+   "signal": "new"
+  },
+  {
+   "topic": "Close & FP&A automation",
+   "count": 1,
+   "avg": 0,
    "signal": "new"
   },
   {
@@ -1514,12 +1520,6 @@
    "signal": "quiet"
   },
   {
-   "topic": "Close & FP&A automation",
-   "count": 0,
-   "avg": 0,
-   "signal": "quiet"
-  },
-  {
    "topic": "Fraud & risk",
    "count": 0,
    "avg": 0,
@@ -1530,39 +1530,128 @@
   "Agentic AI": 7,
   "AI in finance": 0,
   "Stablecoins": 0,
-  "IPOs": 19,
-  "Funding rounds": 22,
+  "IPOs": 21,
+  "Funding rounds": 21,
   "M&A": 1,
   "Embedded finance": 0,
   "Real-time payments": 0,
-  "Close & FP&A automation": 0,
+  "Close & FP&A automation": 1,
   "Regulation": 2,
   "Fraud & risk": 0
  },
  "news": [
   {
+   "title": "Polish Fintech Company PayPo Said to Tap Banks for Potential Warsaw IPO",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEFwek9BSVdVWWFzX3Y3SjRkSHNUV1dEbGg4LXBOdDZ5WUctdUpIQldCZXdpVk9KZUxJcEdEdk92ejdYQTJ3bTE5eEJtU2tuVE9xUTdqbmsxVWFaN3Fzc3NwR3lMWFZrYUtLLU00NV9DVnE4Yjk5bVdTZ3ZPTEtLWmh4UndwT3g5eUNESFgtaUQwVWJPVzRhVU5VeFhvdmM0SHROczI4TGhHd1ZSSkVDb21vbm9nTHk2QlZvTnB2Skpfdw?oc=5",
+   "published": "2026-11-20T14:52:12+00:00",
+   "summary": "Polish Fintech Company PayPo Said to Tap Banks for Potential Warsaw IPO marketscreener.com",
+   "source": "marketscreener.com",
+   "feed": "Google News: fintech IPO",
+   "topics": [
+    "IPOs"
+   ]
+  },
+  {
+   "title": "Your forecast is now an attack surface",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VbjZJY1Aya3BGb3BZTGVsZnB2dl8wdkZoQ2EtdVcwMnFXYlhNTWhFS1dhWVpyZVQ3MThpYW1xWVRXaF9XS1U5S1ZoRnJPNFFYZE1qdFFaQWVqcWFLODF2VXRyQ0JBYUVHZTU0cUtEdU9QeC11WlN6N3BhNA?oc=5",
+   "published": "2026-11-20T14:16:44+00:00",
+   "summary": "Your forecast is now an attack surface CFO.com",
+   "source": "CFO.com",
+   "feed": "Google News: CFO + AI",
+   "topics": []
+  },
+  {
+   "title": "Almost $1bn raised in FinTech deals in strong week for investment",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamhnT1RXdVFuQXRrY3daN1VheDctX0JpVUJwM2ZBal9KR0x1QkxIb0F3TGkwVjlrcmNfWHZrc3ZlVFVrSmpNRVE1dGRTUE1PQWNmSFFkaVBTeDRqWGZ1TWY3Rkt4Q3BEbTFCdVlyaEs2V0JMbkdlUGszSGQ2ajZCRTJDdS1wdGRGN0dFTG41Q01NUjdMOUJERUgyWm45X3Fz?oc=5",
+   "published": "2026-11-20T13:47:41+00:00",
+   "summary": "Almost $1bn raised in FinTech deals in strong week for investment FinTech Global",
+   "source": "FinTech Global",
+   "feed": "Google News: fintech funding",
+   "topics": []
+  },
+  {
+   "title": "Klarna\u2019s Polish Rival PayPo Said to Pick Citi, JPMorgan for IPO",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVloaEZfLTJrZmt2ZkZHcXB1RUp4ZFdFNnRqNURFVC16cEhzODlZY3RnWkJZa01BSWVIcERvbzc3ekdtYVNmby05cl9uRTNUOURXWHV1SXNscmg0RXA5bmxwVlFoOUdwRTQ0Wnd1QTA3ZVVRZnBGNW5RVnpaakFqOFpnZ296bnRDWlk3VnNqenFBZ3h4bnVUdkhFc3pEdVhyRm9teHVySFV1d1pYRFVJcWcyaw?oc=5",
+   "published": "2026-11-20T13:41:54+00:00",
+   "summary": "Klarna\u2019s Polish Rival PayPo Said to Pick Citi, JPMorgan for IPO Bloomberg.com",
+   "source": "Bloomberg.com",
+   "feed": "Google News: fintech IPO",
+   "topics": [
+    "IPOs"
+   ]
+  },
+  {
+   "title": "ICYMI fintech funding round-up: Olyv, Verlo, Previsia, and more",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGtnM3puY0lYdWRGTGR2NG1JNE5ZSW43N1VMTzJVQTRmeUtVSkl6VnQzU0QtbUJYbE5oYlBnRllQcXdESGUyRW5TV09WRDdEQVZpeS0xYXVPVUpuTEJ6czROeXpLcGw5bW90cmVWUmZhVUw5d3RHczA0akUxUENESFV0d0xvV3dVd1ZhWmI3bmc3ZDFDd2EtSHZvR2ZlOEQ3UWRncHpUdVhpSXZFRkhvT1g4dmQ?oc=5",
+   "published": "2026-11-20T13:18:45+00:00",
+   "summary": "ICYMI fintech funding round-up: Olyv, Verlo, Previsia, and more FinTech Futures",
+   "source": "FinTech Futures",
+   "feed": "Google News: fintech funding",
+   "topics": [
+    "Funding rounds"
+   ]
+  },
+  {
+   "title": "From homegrown startup to biggest PH IPO: Mynt banners growth story at world's biggest fintech stage",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZnhkNlRoUDNtVjBRM0dQMFVRaDF5aVBfN1dkV2VpWjVkNkcwQ25ROVY4UTI0ZVZiSFQ5eG5scGRBZFdyejNYYkJTRVFaUmRrRjlENktfd1FIbk9nT2ZsZ3BJb1R1ZW5FNnBaNk9CSEd2RzVhdTV5bFQ0dWliajhUdG9SSXMxYzFkOGpKUEJYclExRENrN1RXalpwVlpyZ0pTSV9wMmNaQnp4bVBBVDg0aFdRbWxLd19aRHMxYXlOMk80WjVNczRPMnVlbXA3aTVPY3JhRDNlOGVEaUo0N2JXRFczUXRVY0xPMEtzbmpXONIB9gFBVV95cUxNdUY4Z0RvYzh5czdkSWkza0plM3JyaWVmUHpuTldUUjVabWpYVUVpeklFQkpaMGRwWTFSeXA0V3dlNnAtd3lvTGlVSlIyRUVoYkJ1QVZTUjRPbUg1aTB5VGloQ09uZmJZUW5hRUg2Vl8ySmxsRlZXVkVfYTA2MmxrQ1NxcjNHWTRGTjZ2Z0FNVk1WNlhDVGlYQUpMSUE3S0wyMjRpU2dMejkxaUtacnpKWm9OWVFCVENpNDQ5aVJsRmFtY29wTkhadGx4TGNNM09tX2F3ZFJrYXREaW11Q2NqUVJvWDd6WldxUW9sQjBVaHJKeHdKc1E?oc=5",
+   "published": "2026-11-20T08:53:00+00:00",
+   "summary": "From homegrown startup to biggest PH IPO: Mynt banners growth story at world's biggest fintech stage Philstar.com",
+   "source": "Philstar.com",
+   "feed": "Google News: fintech IPO",
+   "topics": [
+    "IPOs"
+   ]
+  },
+  {
+   "title": "Anthropic raises USD 81.3 bln in Nasdaq IPO",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkRUUjdldWZZYUUyYTk5bXNXeXZVWGtfTVBNS2hEQXdGeHhGcnNYZjd6dVgteURrN1FQcmxwN3hUV0JxbklGZ1F1VzBzQlNfYUcwNnlyS1BJczVINGNacDVROXBNb284aWo2c0pScW5vaGRkTmRqem1tdmhka2dsOHlWeV96NWFFZEZPZ1d0amxhSzRPZ2lUaDBvdElaRHdCOWJEaHIxbzI?oc=5",
+   "published": "2026-11-20T08:46:57+00:00",
+   "summary": "Anthropic raises USD 81.3 bln in Nasdaq IPO The Paypers",
+   "source": "The Paypers",
+   "feed": "Google News: fintech IPO",
+   "topics": [
+    "IPOs",
+    "Funding rounds"
+   ]
+  },
+  {
+   "title": "Connect Money raises $3.5 million to accelerate regional expansion into Saudi Arabia and Morocco",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXlDdkpBVG5ZUTBTWEo1eUNPZFpkdjl1QUN5WnRENFYzZE5URzFtTmg0Wlc0bVl6ekMyN3BjVVI0NmtJRDRja3RkRy1MSy03WTVzOEdnM1VlZGFyQmFBLVZ3YUU0b1FYazhMS042M3FtSnB0Q2tpUmtFNG80VFVfSUlQc19PVjRLVTB6MGt3cjhDeTVrZHZqY2xPbVZzLTNrSjhXVWRxeV9idUoxSmZfM3dwYVZzbktsRmVXd0N5QXpta1A4WWc?oc=5",
+   "published": "2026-11-20T06:57:41+00:00",
+   "summary": "Connect Money raises $3.5 million to accelerate regional expansion into Saudi Arabia and Morocco Innovation Village",
+   "source": "Innovation Village",
+   "feed": "Google News: fintech funding",
+   "topics": [
+    "Funding rounds"
+   ]
+  },
+  {
+   "title": "Payments startup Nium opens headquarters in Singapore, eyes IPO in 2 years",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0F6SFNjYUxVSThvNUM3S2pIb2p4MmlBT195YnlmUzlEemNxRVR0bUQ3NGUyTV9UejdyOG1XT1ZESmhpVVdDTHBmMllpck5JT05Ub3Y0bHdxbXA1bzRVN3V3eGdYZldQakt0VEt5UTZrd2hZa2FWaGE0OXZCYWRUdkxHRmVQM29aNlRIeW1ESTNxcTVMNFE2bGd2WEpzX2FHN1NjdjU3SnZpbUd4eEpVRVI3S3k?oc=5",
+   "published": "2026-11-20T05:53:51+00:00",
+   "summary": "Payments startup Nium opens headquarters in Singapore, eyes IPO in 2 years Singapore Economic Development Board (EDB)",
+   "source": "Singapore Economic Development Board (EDB)",
+   "feed": "Google News: fintech IPO",
+   "topics": [
+    "IPOs"
+   ]
+  },
+  {
+   "title": "Binance Wallet Announces Anthropic IPO Token Refunds",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVE0tRGx1X1pIa3h6U3VlWjZEYmRQblBFb25sMC15emNOZ2lCRzlkUFFYUGlkQjFjWTJhRWV0aVhDVGg2eUVyLVNVZHhYRGxEYTVsWW00aU9vYlhVaVRrWmNickdELTVkNXJkaDRwSmpFbnJTVjdZbm5LazBJSmJJWTBkbGNabGxVWDlGYXZLT1MzMkNIRllnbWV1UTZEVk1pcFZJOQ?oc=5",
+   "published": "2026-11-19T23:30:02+00:00",
+   "summary": "Binance Wallet Announces Anthropic IPO Token Refunds The Defiant",
+   "source": "The Defiant",
+   "feed": "Google News: fintech IPO",
+   "topics": [
+    "IPOs"
+   ]
+  },
+  {
    "title": "Economic outlook dims on weak consumer expectations: Conference Board",
    "url": "https://www.cfodive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875259/",
    "published": "2026-11-19T15:55:01-05:00",
    "summary": "Economic growth so far this year has primarily hinged on the level of spending on artificial intelligence, according to Apollo Global Management Chief Economist Torsten Slok.",
-   "source": "CFO Dive",
-   "feed": "CFO Dive",
-   "topics": []
-  },
-  {
-   "title": "US dealmaking growth to slow in 2027: EY",
-   "url": "https://www.cfodive.com/news/dealmaking-growth-slowdown-2027-ey/875257/",
-   "published": "2026-11-19T15:44:11-05:00",
-   "summary": "After a three-year boom, deal activity is expected to moderate as buyers become more selective amid higher borrowing costs and policy uncertainty.",
-   "source": "CFO Dive",
-   "feed": "CFO Dive",
-   "topics": []
-  },
-  {
-   "title": "S&P warns Chicago budget woes, CFO exit could hurt city\u2019s bond rating",
-   "url": "https://www.cfodive.com/news/sp-warns-chicago-budget-woes-cfo-exit-could-hurt-citys-bond-rating/875246/",
-   "published": "2026-11-19T15:15:48-05:00",
-   "summary": "Fallout from the finance chief\u2019s resignation could \u201cabsorb scarce time\u201d that might otherwise be spent negotiating a better budget, S&P\u2019s Scott Nees said.",
    "source": "CFO Dive",
    "feed": "CFO Dive",
    "topics": []
@@ -1580,6 +1669,18 @@
    ]
   },
   {
+   "title": "Fintech Devengo raises \u20ac5 mn to expand instant A2A and AI agent payments",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORUVGQV9xR0FtYTY2eGdKZWNnX3d5bENUbGVtd1loR0tHTklqejctMUdaWVVSNmJ3Z29fRG5PTDJMMEJybTZNYlBmak8zdHhWMlAxWU10UFpZeWkySjAxQVYzTHM?oc=5",
+   "published": "2026-11-19T20:12:57+00:00",
+   "summary": "Fintech Devengo raises \u20ac5 mn to expand instant A2A and AI agent payments Beinsure",
+   "source": "Beinsure",
+   "feed": "Google News: fintech funding",
+   "topics": [
+    "Agentic AI",
+    "Funding rounds"
+   ]
+  },
+  {
    "title": "Fintech Payhawk raises $280 mn in Series C funding at $2 bn valuation",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE1VNHQ1enRPLUg0dVRZRUhuQUdUNEt2VTdwOW03TXFDRDJxRnFCQlFlUWtFMFVJZG9yZkxXdl84ZFFBZnRId19fRlJmLTFQTWc0TGl6WWd6bkdITUJ3U2VoTjhwajJ0QWNjbjNRM0hPc05aRnBOWDdjN0kxcXpidm90OEJPemNPeXoxZ25vbXUwUDlBQ1h3V0ln?oc=5",
    "published": "2026-11-19T19:52:57+00:00",
@@ -1591,11 +1692,11 @@
    ]
   },
   {
-   "title": "Razorpay to File India IPO Papers Next Week, Could Raise $600 Million",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHpPQkdKb2RQWTRaUENoRDlSdkVLZnFkUU53M1FKV1VveFpHQXBORndaQjNzY3pxNTM3amk1TWV4eXlmdzdqemVwc3FJZ2VWWWl3VzNaWF92elNJLW1oOFJBT1d3TXZNS2twNE55YUVKdzhZeWtlSUVCQmlwVEQ3TFFZXzJwQ2lpUy1vNk5wYjhzR3c?oc=5",
-   "published": "2026-11-19T19:09:27+00:00",
-   "summary": "Razorpay to File India IPO Papers Next Week, Could Raise $600 Million TechStory",
-   "source": "TechStory",
+   "title": "Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkswSjU3eS12VE9GTkw5dFg4bUc2a3VocVlUZ2hGbUFxOTZkbTZITzcxdzQzR19adUI5X3ZoMGhPXy1Hd25PbWNHNmxsSEV3MW9WbkFsLUpTTzdIRUc0RG5kMGpIdnVNUHdfeXlIX2RzU0ppVXRneHpaeDZraXpxVHVjWUZ1S3RJLUhsYi1BdWtnanp5blAyb1RtNjlIOXZ4c1RyM2g5czZ4ekU?oc=5",
+   "published": "2026-11-19T19:30:00+00:00",
+   "summary": "Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel TheStreet",
+   "source": "TheStreet",
    "feed": "Google News: fintech IPO",
    "topics": [
     "IPOs"
@@ -1653,6 +1754,15 @@
    "topics": []
   },
   {
+   "title": "xStocks' Anthropic Token Starts Trading on Solana",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWUwZXU2WFZpQ0VTUWpFbkJ2X003OW1oQmtNTEhiY0FhNUZPVnRESm1xZm04WV9kRGZES3I4aVE2YXBIZlBFbmVYTDUydkh2TWREQ25QRUdXNEhKVmtjTGFZSHk1aXlvYkpJTzJUM0NTMTZrdVg3TFdyQjZjWXlVeGRoRHBqLXlsdmRtbVJRc0J3NGdWeFYxRU5BbUp4YXM?oc=5",
+   "published": "2026-11-19T15:35:01+00:00",
+   "summary": "xStocks' Anthropic Token Starts Trading on Solana The Defiant",
+   "source": "The Defiant",
+   "feed": "Google News: fintech IPO",
+   "topics": []
+  },
+  {
    "title": "Tiger Global-backed fintech unicorn Razorpay is reportedly preparing to publicly file documents for its initial public offering (IPO) in India as early as next week, with plans to raise up to $600 million and a potential IPO launch in February 2027, according to a Bl",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96enI3N0VPRHFHNWJoWTl2alRVZ2M4VllJbUIyaXF4ZFhrWl8xdWI2RHRRakFSdDRhcTd3bnl3OFo0ckU4VW9rRDJ6d1VXV3lfa0E?oc=5",
    "published": "2026-11-19T15:30:07+00:00",
@@ -1691,114 +1801,6 @@
    "source": "The Daily Upside",
    "feed": "Google News: CFO + AI",
    "topics": []
-  },
-  {
-   "title": "Securitize Plans IPO-Day Anthropic Tokens on Solana",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTQ2MzU1TGI1bUJJSl9pQl93ZElpMEllRzRnaHNJY3kzZGxqN1ZtYWJCZklRbjRzLWhBODVYNUJyNURLVzdYNmhWTW5zVEIxcVdheFk4Q0l0X3NTOTN3VmoxZkdZMWpwZV9uM0Y5em5CdGZHaENqZjVaSkxRU3pFOEhab3pGTzB4Vkx2bUtaZ2VkTU1EYkF3NE1rcUQ1dVNmZnRR?oc=5",
-   "published": "2026-11-19T15:20:04+00:00",
-   "summary": "Securitize Plans IPO-Day Anthropic Tokens on Solana The Defiant",
-   "source": "The Defiant",
-   "feed": "Google News: fintech IPO",
-   "topics": [
-    "IPOs"
-   ]
-  },
-  {
-   "title": "Quote of the week: \u2018We\u2019ve got this\u2019",
-   "url": "https://www.cfodive.com/news/quote-week-weve-got-this-nvidia-colette-kress/875179/",
-   "published": "2026-11-19T10:14:17-05:00",
-   "summary": "Longtime Nvidia CFO Colette Kress\u2019s public debut as interim chief came less than a week after AI chipmaker\u2019s CEO Jensen Huang resigned.",
-   "source": "CFO Dive",
-   "feed": "CFO Dive",
-   "topics": []
-  },
-  {
-   "title": "Razorpay To File UDRHP By Next Week, Eyes IPO By February 2027: Report",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFo0ZWZUXzB5eUVTNHRTSzYxZzJjQlh2OFdxQ3R5bXJTb185MWF6dE80RFE3cnB5clF2dHpJWDdQdzAxcHVya1ZsdG1XWFBLQmdzWTRueUZPZnlxcm1KeWFYSlhrOXZtRlI4YnJERWFUYUFibzU2eUVleHVsNVkxWHhkY2lYYkdMOU9ITUFBWEprLXY4Zm53?oc=5",
-   "published": "2026-11-19T15:08:38+00:00",
-   "summary": "Razorpay To File UDRHP By Next Week, Eyes IPO By February 2027: Report Inc42",
-   "source": "Inc42",
-   "feed": "Google News: fintech IPO",
-   "topics": [
-    "IPOs"
-   ]
-  },
-  {
-   "title": "Anthropic IPO To Raise Over $80 Billion At $1.5 Trillion Valuation",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXYxMHozak1MeUlwTGRpS3JEeDFTZGdZNEd5eklGTUQ1NjlHb3NRRnRLUldPSVg0T3ZOTWpVRmJJbldBalpDTWJjdmlNOGYwbGRVeFR3QlBkajgwWXg1enRsZld0UzJQeVFKTTAwMk90MW1CWUo4SjNSZWR6d3Y2S1ZYcXlUclc2STZ6VlhQN3AwZ05HX1dpR2Q3ZlZrTmlyNTJZN3FSWTlGRnVCNWVEcFdYbw?oc=5",
-   "published": "2026-11-19T13:27:47+00:00",
-   "summary": "Anthropic IPO To Raise Over $80 Billion At $1.5 Trillion Valuation Crowdfund Insider",
-   "source": "Crowdfund Insider",
-   "feed": "Google News: fintech IPO",
-   "topics": [
-    "IPOs"
-   ]
-  },
-  {
-   "title": "Egypt's Connect Money raises $3.5 million pre-Series A",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHFWcXF0bTFtZDNpR3JMSkNPQWtXU2NOZTVMblViUUc5V3Q3b1NDeEpjNU1mUHJzWmRLNDA0aXgtcnZZaVAzY2hGd2pwMDlGODRLR3hjRDFsemthOTBqVDhmVlRSX3F0S3ZFRjdUMEhXYjdKZW03YnZ5S0g4QXdjRnNHbFZQQQ?oc=5",
-   "published": "2026-11-19T13:14:28+00:00",
-   "summary": "Egypt's Connect Money raises $3.5 million pre-Series A Wamda",
-   "source": "Wamda",
-   "feed": "Google News: fintech funding",
-   "topics": [
-    "Funding rounds"
-   ]
-  },
-  {
-   "title": "Fintech Connect Money Raises $3.5 Million to Expand Regionally",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTZuMFI2c1RTcC1Pb3JlRGxWaXpNYVIzVEo4Q1c4T1NHZTRBclk0XzFsVko1b3kzUlN3aTF1OUhsX2tjNG1CcXFfWERZYmoxVU1VZWZoclRYQWt4ajl1YjlfbmNMVmhBd3lQS3RSNVVTeUc2RktZZlo0b3FaWnZOalMyRUpqZGo1MnFxSFhwbjJyZDhRa05CTQ?oc=5",
-   "published": "2026-11-19T12:03:44+00:00",
-   "summary": "Fintech Connect Money Raises $3.5 Million to Expand Regionally CairoScene",
-   "source": "CairoScene",
-   "feed": "Google News: fintech funding",
-   "topics": [
-    "Funding rounds"
-   ]
-  },
-  {
-   "title": "Razorpay IPO Plans Take Shape With Filing Expected Next Week as Tiger-Backed Fintech Eyes $600 Million Fundraise",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalVGTDRUQ292cXpEUVNybV9fX3dScVRvcjNRLTd6S1ZPanlhMW14OVFDckpVZXBCdFpRTXNtSUFaZ1JIVDMtMDlFTGpvTG5MamFZY2RQZ19nVjNwWDcyNVJQVkQzRVo3VG5ZNUxBRGhTVzF0SnduOWpzYlE3REdjRWppYVAxTkVUNWc?oc=5",
-   "published": "2026-11-19T12:03:20+00:00",
-   "summary": "Razorpay IPO Plans Take Shape With Filing Expected Next Week as Tiger-Backed Fintech Eyes $600 Million Fundraise Kotak Neo",
-   "source": "Kotak Neo",
-   "feed": "Google News: fintech IPO",
-   "topics": [
-    "IPOs"
-   ]
-  },
-  {
-   "title": "First Circle Capital: Austrian Investor Raises $26 Million for African Fintechs",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmhSZzA2dlc4MnpTaF9YOUZ3cDNxNEc4U3hKVUpLaWJWcFlxU2plbWM0cEdEdnpKajlwUVByN3laY1J0MlpUSjF5YUN3aEJJSWZJQVp0VUpGX1dHT0sxbWthNDQtel9DSEFtai11V190UGdVdklrOVVBRG1kQmthd21MaTFTYXhtN0NYcl9OOGU3NmZndC0tT01aZVZ3Zw?oc=5",
-   "published": "2026-11-19T10:41:31+00:00",
-   "summary": "First Circle Capital: Austrian Investor Raises $26 Million for African Fintechs www.trendingtopics.eu",
-   "source": "www.trendingtopics.eu",
-   "feed": "Google News: fintech funding",
-   "topics": [
-    "Funding rounds"
-   ]
-  },
-  {
-   "title": "Binance Wallet Announces Anthropic IPO Token Refunds",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVE0tRGx1X1pIa3h6U3VlWjZEYmRQblBFb25sMC15emNOZ2lCRzlkUFFYUGlkQjFjWTJhRWV0aVhDVGg2eUVyLVNVZHhYRGxEYTVsWW00aU9vYlhVaVRrWmNickdELTVkNXJkaDRwSmpFbnJTVjdZbm5LazBJSmJJWTBkbGNabGxVWDlGYXZLT1MzMkNIRllnbWV1UTZEVk1pcFZJOQ?oc=5",
-   "published": "2026-11-19T10:34:56+00:00",
-   "summary": "Binance Wallet Announces Anthropic IPO Token Refunds The Defiant",
-   "source": "The Defiant",
-   "feed": "Google News: fintech IPO",
-   "topics": [
-    "IPOs"
-   ]
-  },
-  {
-   "title": "Harvard and Yale to the AI Industry: Meet Anthropic's IPO CFO Krishna Rao behind its $81 Billion worth",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQU1nTW5VV1pKWFVDd0Z6ZFdBRFVwMzg4eHpSOUxDWGJPTmNObDVPeHpZbGhJbHdZZFZCRVo0RnBJbUlhU2pUX0tlaDhLVnNFR0stSDUwN0Ziby1MSnZNTjBKR3dLX29QQngtTVJXZG4tMjNsbnhDM3hZYlNWUC15QUwxcXQ0TjFBOWxfZVZEX3pJM1lEVkdUR0xRU2dzNXhwMXJXRDdWUk5EVGJ1QURGeWZzUjRZNmJvMzNBNC1FU3NXRGpmd1VDSkljNmFURlJONGVCdXBRX2lqNTIzclVxc1J6SVYzSEJvdjRkZ1ZwZkY2Nklsd0xrUg?oc=5",
-   "published": "2026-11-19T10:03:00+00:00",
-   "summary": "Harvard and Yale to the AI Industry: Meet Anthropic's IPO CFO Krishna Rao behind its $81 Billion worth Education Times",
-   "source": "Education Times",
-   "feed": "Google News: CFO + AI",
-   "topics": [
-    "IPOs"
-   ]
   }
  ],
  "summary": null,
