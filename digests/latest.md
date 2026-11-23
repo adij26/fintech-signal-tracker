@@ -1,9 +1,9 @@
-# Fintech & OCFO Signals: Friday, November 20, 2026
+# Fintech & OCFO Signals: Monday, November 23, 2026
 
 ## At a glance
 
 - **25** fintech-related IPO filings in the last 30 days, most recently **BEHNEH Ltd** (2026-11-06).
-- Biggest 5-day move up: **BILL Holdings** ▲13.1%; down: **Circle** ▼18.0%.
+- Biggest 5-day move up: **BILL Holdings** ▲6.8%; down: **Intuit** ▼19.4%.
 
 ## 🚀 IPO signals
 
@@ -13,14 +13,12 @@ S-1 / F-1 registration statements filed in the last 30 days that mention fintech
 |---|---|---|---|---|
 | [BEHNEH Ltd](https://www.sec.gov/Archives/edgar/data/2136246/000121390026116798/0001213900-26-116798-index.htm) | F-1 | 2026-11-06 | Business services | embedded finance, fintech, stablecoin |
 | [GEORGIA BANKING CO INC](https://www.sec.gov/Archives/edgar/data/1070965/000110465926118704/0001104659-26-118704-index.htm) | S-1/A | 2026-10-26 | State commercial banks | embedded finance, fintech, stablecoin |
-| [Grayscale Bittensor Trust](https://www.sec.gov/Archives/edgar/data/2029297/000119312526430543/0001193125-26-430543-index.htm) | S-1/A | 2026-10-23 | SIC 6221 | fintech, payments platform, stablecoin |
+| [TruGolf Holdings, Inc.](https://www.sec.gov/Archives/edgar/data/1857086/000149315226053580/0001493152-26-053580-index.htm) | S-1 | 2026-11-20 | SIC 3949 | fintech, stablecoin |
 | [Bitwise Zcash ETF](https://www.sec.gov/Archives/edgar/data/2152975/000119312526465692/0001193125-26-465692-index.htm) | S-1 | 2026-11-17 | SIC 6221 | fintech, stablecoin |
 | [Cryptex Digital Market Cap ETF](https://www.sec.gov/Archives/edgar/data/2115027/000121390026117956/0001213900-26-117956-index.htm) | S-1/A | 2026-11-10 | SIC 6221 | payments platform, stablecoin |
 | [Canary Staked INJ ETF](https://www.sec.gov/Archives/edgar/data/2073616/000199937126024117/0001999371-26-024117-index.htm) | S-1/A | 2026-11-02 | Finance services | fintech, stablecoin |
 | [Evernorth Holdings Inc.](https://www.sec.gov/Archives/edgar/data/2092592/000162828026068609/0001628280-26-068609-index.htm) | S-1 | 2026-10-30 | SIC 6221 | fintech, stablecoin |
 | [Exascale Labs Holdings Inc.](https://www.sec.gov/Archives/edgar/data/2109869/000182912626011834/0001829126-26-011834-index.htm) | S-1 | 2026-10-30 | Prepackaged software | fintech, stablecoin |
-| [OPAY Ltd](https://www.sec.gov/Archives/edgar/data/2103076/000119312526430437/0001193125-26-430437-index.htm) | F-1/A | 2026-10-23 | Functions related to depository banking | fintech, payments platform |
-| [AMC Robotics Corp](https://www.sec.gov/Archives/edgar/data/1937891/000149315226047958/0001493152-26-047958-index.htm) | S-1 | 2026-10-22 | SIC 5700 | fintech, payments platform |
 | [EUROEV Holdings Ltd](https://www.sec.gov/Archives/edgar/data/2048740/000121390026121800/0001213900-26-121800-index.htm) | F-1/A | 2026-11-18 | SIC 3711 | fintech |
 | [Gold Stone Technical Inc.](https://www.sec.gov/Archives/edgar/data/2095509/000121390026120404/0001213900-26-120404-index.htm) | F-1/A | 2026-11-16 | Computer services | fintech |
 | [B & T Global Holding Ltd.](https://www.sec.gov/Archives/edgar/data/2156248/000149315226051984/0001493152-26-051984-index.htm) | F-1 | 2026-11-16 | SIC 5040 | stablecoin |
@@ -36,103 +34,105 @@ S-1 / F-1 registration statements filed in the last 30 days that mention fintech
 | [Guitar Group Ltd](https://www.sec.gov/Archives/edgar/data/2127447/000118518526005201/0001185185-26-005201-index.htm) | F-1 | 2026-11-05 | SIC 7900 | fintech |
 | [VCI Global Ltd](https://www.sec.gov/Archives/edgar/data/1930510/000121390026115124/0001213900-26-115124-index.htm) | F-1/A | 2026-11-03 | SIC 8744 | fintech |
 | [Fitness Champs Holdings Ltd](https://www.sec.gov/Archives/edgar/data/2023796/000149315226049826/0001493152-26-049826-index.htm) | F-1 | 2026-11-03 | SIC 7990 | fintech |
+| [NorthStar Earth & Space Enterprises, Inc.](https://www.sec.gov/Archives/edgar/data/2080023/000121390026114438/0001213900-26-114438-index.htm) | F-1 | 2026-10-30 | SIC 4899 | fintech |
+| [Parabolic Technologies, Inc.](https://www.sec.gov/Archives/edgar/data/1826011/000149315226049469/0001493152-26-049469-index.htm) | S-1 | 2026-10-30 | Prepackaged software | fintech |
 
 ## 📈 Market
 
-Benchmarks: S&P 500 (SPY) ▼0.5% today, ▼6.7% 1M · Global X FinTech ETF 0.0% today, ▼12.2% 1M
+Benchmarks: S&P 500 (SPY) ▲5.3% today, ▼4.4% 1M · Global X FinTech ETF ▲3.5% today, ▼11.2% 1M
 
 | Group | Avg 1M | vs S&P 500 (SPY) |
 |---|---:|---:|
-| Office of the CFO software | ▼6.2% | +0.5 pts |
-| Payments & lending | ▼9.1% | -2.4 pts |
-| Crypto & trading | ▼33.4% | -26.6 pts |
-| Recent fintech IPOs | ▼14.8% | -8.1 pts |
+| Office of the CFO software | ▼7.9% | -3.5 pts |
+| Payments & lending | ▼6.5% | -2.0 pts |
+| Crypto & trading | ▼30.0% | -25.5 pts |
+| Recent fintech IPOs | ▼9.2% | -4.8 pts |
 
 **Office of the CFO software**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| INTU | Intuit | 296.92 | ▼4.2% | ▼13.1% | ▼16.3% | ▼56.1% |
-| WDAY | Workday | 180.09 | ▲3.9% | ▼8.3% | ▼14.2% | ▼22.9% |
-| BILL | BILL Holdings | 61.60 | ▼3.9% | ▲13.1% | ▲21.6% | ▼6.7% |
-| BL | BlackLine | 25.81 | ▲5.2% | ▼12.6% | ▼24.9% | ▼56.1% |
-| ADP | ADP | 307.12 | ▲2.0% | ▼0.9% | ▼0.3% | ▼2.0% |
-| PAYX | Paychex | 114.85 | ▲3.1% | ▼0.7% | ▼3.3% | ▼9.8% |
+| INTU | Intuit | 278.64 | ▲3.0% | ▼19.4% | ▼18.9% | ▼58.8% |
+| WDAY | Workday | 176.93 | ▲1.4% | ▼8.8% | ▼15.7% | ▼24.3% |
+| BILL | BILL Holdings | 61.56 | ▲0.2% | ▲6.8% | ▲21.4% | ▼6.7% |
+| BL | BlackLine | 25.32 | ▲2.4% | ▼10.9% | ▼27.3% | ▼57.0% |
+| ADP | ADP | 300.13 | ▼0.5% | ▼4.2% | ▼1.3% | ▼4.2% |
+| PAYX | Paychex | 111.56 | ▼0.9% | ▼5.3% | ▼5.5% | ▼12.4% |
 
 **Payments & lending**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| PYPL | PayPal | 54.99 | ▼2.5% | ▼7.2% | ▼4.4% | ▼12.6% |
-| XYZ | Block | 73.74 | ▼0.7% | ▼12.8% | ▼6.7% | ▼16.7% |
-| AFRM | Affirm | 56.82 | ▼0.2% | ▼12.7% | ▼21.5% | ▼33.8% |
-| SOFI | SoFi | 13.35 | ▼1.3% | ▼13.4% | ▼9.6% | ▼55.1% |
-| TOST | Toast | 32.26 | ▲1.3% | ▼7.0% | ▼3.5% | ▼13.4% |
+| PYPL | PayPal | 54.35 | ▲2.0% | ▼7.6% | ▼4.7% | ▼13.6% |
+| XYZ | Block | 73.19 | ▲5.1% | ▼11.8% | ▼4.3% | ▼17.4% |
+| AFRM | Affirm | 59.12 | ▲9.5% | ▼5.7% | ▼15.6% | ▼31.1% |
+| SOFI | SoFi | 13.62 | ▲9.2% | ▼8.2% | ▼6.8% | ▼54.2% |
+| TOST | Toast | 32.38 | ▲3.0% | ▼7.5% | ▼1.0% | ▼13.2% |
 
 **Crypto & trading**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| COIN | Coinbase | 108.54 | ▼0.3% | ▼15.0% | ▼35.8% | ▼60.9% |
-| HOOD | Robinhood | 66.68 | ▼2.9% | ▼14.4% | ▼31.0% | ▼51.4% |
+| COIN | Coinbase | 110.48 | ▲8.3% | ▼7.8% | ▼32.8% | ▼60.2% |
+| HOOD | Robinhood | 69.31 | ▲11.5% | ▼3.8% | ▼27.1% | ▼49.4% |
 
 **Recent fintech IPOs**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| CRCL | Circle | 51.03 | ▼1.6% | ▼18.0% | ▼41.1% | ▼61.6% |
-| CHYM | Chime | 30.80 | ▼0.2% | ▼8.2% | ▲2.1% | ▼10.8% |
-| KLAR | Klarna | 12.49 | ▼1.4% | ▼9.5% | ▼5.6% | ▼61.5% |
+| CRCL | Circle | 53.18 | ▲11.9% | ▼7.8% | ▼38.1% | ▼60.0% |
+| CHYM | Chime | 32.06 | ▲5.7% | ▼6.5% | ▲8.4% | ▼7.2% |
+| KLAR | Klarna | 13.09 | ▲8.9% | ▼4.0% | ▲2.1% | ▼59.7% |
 
 ## 🔥 Trends in the headlines
 
 | Topic | Mentions today | Recent avg | Signal |
 |---|---:|---:|---|
-| IPOs | 21 | 19 | 🆕 new |
-| Funding rounds | 21 | 21 | 🆕 new |
-| Agentic AI | 7 | 7 | 🆕 new |
-| Regulation | 2 | 2 | 🆕 new |
+| IPOs | 9 | 20 | 🆕 new |
+| Funding rounds | 8 | 21 | 🆕 new |
+| Regulation | 4 | 2 | 🆕 new |
 | M&A | 1 | 1 | 🆕 new |
-| Close & FP&A automation | 1 | 0 | 🆕 new |
+| Real-time payments | 1 | 0 | 🆕 new |
+| Agentic AI | 0 | 7 | · quiet |
 | AI in finance | 0 | 0 | · quiet |
 | Stablecoins | 0 | 0 | · quiet |
 | Embedded finance | 0 | 0 | · quiet |
-| Real-time payments | 0 | 0 | · quiet |
+| Close & FP&A automation | 0 | 0.5 | · quiet |
 | Fraud & risk | 0 | 0 | · quiet |
 
 ## 📰 Headlines
 
-- [Polish Fintech Company PayPo Said to Tap Banks for Potential Warsaw IPO](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEFwek9BSVdVWWFzX3Y3SjRkSHNUV1dEbGg4LXBOdDZ5WUctdUpIQldCZXdpVk9KZUxJcEdEdk92ejdYQTJ3bTE5eEJtU2tuVE9xUTdqbmsxVWFaN3Fzc3NwR3lMWFZrYUtLLU00NV9DVnE4Yjk5bVdTZ3ZPTEtLWmh4UndwT3g5eUNESFgtaUQwVWJPVzRhVU5VeFhvdmM0SHROczI4TGhHd1ZSSkVDb21vbm9nTHk2QlZvTnB2Skpfdw?oc=5): marketscreener.com · 2026-11-20 · _IPOs_
-- [Your forecast is now an attack surface](https://news.google.com/rss/articles/CBMie0FVX3lxTE5VbjZJY1Aya3BGb3BZTGVsZnB2dl8wdkZoQ2EtdVcwMnFXYlhNTWhFS1dhWVpyZVQ3MThpYW1xWVRXaF9XS1U5S1ZoRnJPNFFYZE1qdFFaQWVqcWFLODF2VXRyQ0JBYUVHZTU0cUtEdU9QeC11WlN6N3BhNA?oc=5): CFO.com · 2026-11-20
-- [Almost $1bn raised in FinTech deals in strong week for investment](https://news.google.com/rss/articles/CBMioAFBVV95cUxQamhnT1RXdVFuQXRrY3daN1VheDctX0JpVUJwM2ZBal9KR0x1QkxIb0F3TGkwVjlrcmNfWHZrc3ZlVFVrSmpNRVE1dGRTUE1PQWNmSFFkaVBTeDRqWGZ1TWY3Rkt4Q3BEbTFCdVlyaEs2V0JMbkdlUGszSGQ2ajZCRTJDdS1wdGRGN0dFTG41Q01NUjdMOUJERUgyWm45X3Fz?oc=5): FinTech Global · 2026-11-20
-- [Klarna’s Polish Rival PayPo Said to Pick Citi, JPMorgan for IPO](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVloaEZfLTJrZmt2ZkZHcXB1RUp4ZFdFNnRqNURFVC16cEhzODlZY3RnWkJZa01BSWVIcERvbzc3ekdtYVNmby05cl9uRTNUOURXWHV1SXNscmg0RXA5bmxwVlFoOUdwRTQ0Wnd1QTA3ZVVRZnBGNW5RVnpaakFqOFpnZ296bnRDWlk3VnNqenFBZ3h4bnVUdkhFc3pEdVhyRm9teHVySFV1d1pYRFVJcWcyaw?oc=5): Bloomberg.com · 2026-11-20 · _IPOs_
-- [ICYMI fintech funding round-up: Olyv, Verlo, Previsia, and more](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGtnM3puY0lYdWRGTGR2NG1JNE5ZSW43N1VMTzJVQTRmeUtVSkl6VnQzU0QtbUJYbE5oYlBnRllQcXdESGUyRW5TV09WRDdEQVZpeS0xYXVPVUpuTEJ6czROeXpLcGw5bW90cmVWUmZhVUw5d3RHczA0akUxUENESFV0d0xvV3dVd1ZhWmI3bmc3ZDFDd2EtSHZvR2ZlOEQ3UWRncHpUdVhpSXZFRkhvT1g4dmQ?oc=5): FinTech Futures · 2026-11-20 · _Funding rounds_
-- [From homegrown startup to biggest PH IPO: Mynt banners growth story at world's biggest fintech stage](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZnhkNlRoUDNtVjBRM0dQMFVRaDF5aVBfN1dkV2VpWjVkNkcwQ25ROVY4UTI0ZVZiSFQ5eG5scGRBZFdyejNYYkJTRVFaUmRrRjlENktfd1FIbk9nT2ZsZ3BJb1R1ZW5FNnBaNk9CSEd2RzVhdTV5bFQ0dWliajhUdG9SSXMxYzFkOGpKUEJYclExRENrN1RXalpwVlpyZ0pTSV9wMmNaQnp4bVBBVDg0aFdRbWxLd19aRHMxYXlOMk80WjVNczRPMnVlbXA3aTVPY3JhRDNlOGVEaUo0N2JXRFczUXRVY0xPMEtzbmpXONIB9gFBVV95cUxNdUY4Z0RvYzh5czdkSWkza0plM3JyaWVmUHpuTldUUjVabWpYVUVpeklFQkpaMGRwWTFSeXA0V3dlNnAtd3lvTGlVSlIyRUVoYkJ1QVZTUjRPbUg1aTB5VGloQ09uZmJZUW5hRUg2Vl8ySmxsRlZXVkVfYTA2MmxrQ1NxcjNHWTRGTjZ2Z0FNVk1WNlhDVGlYQUpMSUE3S0wyMjRpU2dMejkxaUtacnpKWm9OWVFCVENpNDQ5aVJsRmFtY29wTkhadGx4TGNNM09tX2F3ZFJrYXREaW11Q2NqUVJvWDd6WldxUW9sQjBVaHJKeHdKc1E?oc=5): Philstar.com · 2026-11-20 · _IPOs_
-- [Anthropic raises USD 81.3 bln in Nasdaq IPO](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkRUUjdldWZZYUUyYTk5bXNXeXZVWGtfTVBNS2hEQXdGeHhGcnNYZjd6dVgteURrN1FQcmxwN3hUV0JxbklGZ1F1VzBzQlNfYUcwNnlyS1BJczVINGNacDVROXBNb284aWo2c0pScW5vaGRkTmRqem1tdmhka2dsOHlWeV96NWFFZEZPZ1d0amxhSzRPZ2lUaDBvdElaRHdCOWJEaHIxbzI?oc=5): The Paypers · 2026-11-20 · _IPOs, Funding rounds_
-- [Connect Money raises $3.5 million to accelerate regional expansion into Saudi Arabia and Morocco](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXlDdkpBVG5ZUTBTWEo1eUNPZFpkdjl1QUN5WnRENFYzZE5URzFtTmg0Wlc0bVl6ekMyN3BjVVI0NmtJRDRja3RkRy1MSy03WTVzOEdnM1VlZGFyQmFBLVZ3YUU0b1FYazhMS042M3FtSnB0Q2tpUmtFNG80VFVfSUlQc19PVjRLVTB6MGt3cjhDeTVrZHZqY2xPbVZzLTNrSjhXVWRxeV9idUoxSmZfM3dwYVZzbktsRmVXd0N5QXpta1A4WWc?oc=5): Innovation Village · 2026-11-20 · _Funding rounds_
-- [Payments startup Nium opens headquarters in Singapore, eyes IPO in 2 years](https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0F6SFNjYUxVSThvNUM3S2pIb2p4MmlBT195YnlmUzlEemNxRVR0bUQ3NGUyTV9UejdyOG1XT1ZESmhpVVdDTHBmMllpck5JT05Ub3Y0bHdxbXA1bzRVN3V3eGdYZldQakt0VEt5UTZrd2hZa2FWaGE0OXZCYWRUdkxHRmVQM29aNlRIeW1ESTNxcTVMNFE2bGd2WEpzX2FHN1NjdjU3SnZpbUd4eEpVRVI3S3k?oc=5): Singapore Economic Development Board (EDB) · 2026-11-20 · _IPOs_
-- [Binance Wallet Announces Anthropic IPO Token Refunds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVE0tRGx1X1pIa3h6U3VlWjZEYmRQblBFb25sMC15emNOZ2lCRzlkUFFYUGlkQjFjWTJhRWV0aVhDVGg2eUVyLVNVZHhYRGxEYTVsWW00aU9vYlhVaVRrWmNickdELTVkNXJkaDRwSmpFbnJTVjdZbm5LazBJSmJJWTBkbGNabGxVWDlGYXZLT1MzMkNIRllnbWV1UTZEVk1pcFZJOQ?oc=5): The Defiant · 2026-11-19 · _IPOs_
-- [Economic outlook dims on weak consumer expectations: Conference Board](https://www.cfodive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875259/): CFO Dive · 2026-11-19
-- [Bitcoin Near $64,000 As Anthropic Raises $81bn In IPO](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFYwdzY4WEhXYnk4cERXUXRMeW42czl5bE05eU1HbV9WbTM4Z0k3SzcxRE5LZm1MWldwY0JNdUtKWHJoa1VBc2hrV0xNcmJKRVEtbGNCMVdSRWE1R1g2aXBxcjFRNmNVNW5EMGt4WTJ3QXI3WVVyZ2Yxak8xeTFxZ3dKZUE?oc=5): Coinpedia · 2026-11-19 · _IPOs, Funding rounds_
-- [Fintech Devengo raises €5 mn to expand instant A2A and AI agent payments](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORUVGQV9xR0FtYTY2eGdKZWNnX3d5bENUbGVtd1loR0tHTklqejctMUdaWVVSNmJ3Z29fRG5PTDJMMEJybTZNYlBmak8zdHhWMlAxWU10UFpZeWkySjAxQVYzTHM?oc=5): Beinsure · 2026-11-19 · _Agentic AI, Funding rounds_
-- [Fintech Payhawk raises $280 mn in Series C funding at $2 bn valuation](https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE1VNHQ1enRPLUg0dVRZRUhuQUdUNEt2VTdwOW03TXFDRDJxRnFCQlFlUWtFMFVJZG9yZkxXdl84ZFFBZnRId19fRlJmLTFQTWc0TGl6WWd6bkdITUJ3U2VoTjhwajJ0QWNjbjNRM0hPc05aRnBOWDdjN0kxcXpidm90OEJPemNPeXoxZ25vbXUwUDlBQ1h3V0ln?oc=5): Beinsure · 2026-11-19 · _Funding rounds_
-- [Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkswSjU3eS12VE9GTkw5dFg4bUc2a3VocVlUZ2hGbUFxOTZkbTZITzcxdzQzR19adUI5X3ZoMGhPXy1Hd25PbWNHNmxsSEV3MW9WbkFsLUpTTzdIRUc0RG5kMGpIdnVNUHdfeXlIX2RzU0ppVXRneHpaeDZraXpxVHVjWUZ1S3RJLUhsYi1BdWtnanp5blAyb1RtNjlIOXZ4c1RyM2g5czZ4ekU?oc=5): TheStreet · 2026-11-19 · _IPOs_
-- [Ondo Launches 24/7 Anthropic Token on IPO Day](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUtxT0htRkJiRG5ZV1FDdkswNC1RejVyYlc5Y2RxY1dDZUotWmUtUXYwMTBFMkdzaW9RYmVxOEJSNks0MzlVV0NBRE9HRUtJM3UxTDZOVW42R2MtcTNzQjRYUjJpTDhLZC1jS2I3R3NGSTV0VjJjMGEzbFRKdlZPV0JfTkZYajY5b3ZwU0NrWGdiZ0F4OHFCNU1xMA?oc=5): The Defiant · 2026-11-19 · _IPOs_
-- [6 highlights of the OCC’s plan for AI, charters and community banks](https://www.bankingdive.com/news/occ-gould-ai-charter-risk-community-bank-supervision-stablecoin-debanking/875207/): Banking Dive · 2026-11-19 · _Regulation_
-- [M&T aims to ‘dial up’ credit card rewards](https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/): Payments Dive · 2026-11-19
-- [xStocks Says It Can't Meet All Anthropic IPO Access Demand](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDByUmdwZ3BfdE1CcExJZkkyaW1ZR09LSmI1cVgtSEhMNndBbk9DTVVxU3NtZy1ZTnVTNDJFU1NaeGRZLUR2UWl3OTJrbF9VNDB2Ujl3Tmc4UGk5QmdjdEY4M1BZazFsdENlSnpPVEt2VWJlaWNLcXFfUnBHSFdyazhpQmo5X0RjZmtnMncyeG1MOGlhVktLTmZndlRwaEZIS2x0c1dfS2NBLU1i?oc=5): The Defiant · 2026-11-19 · _IPOs_
-- [PNC bets on hospitality to counter AI disruption](https://www.bankingdive.com/news/pnc-branches-hospitality-ai-disruption-banking/875202/): Banking Dive · 2026-11-19
-- [xStocks' Anthropic Token Starts Trading on Solana](https://news.google.com/rss/articles/CBMinwFBVV95cUxObWUwZXU2WFZpQ0VTUWpFbkJ2X003OW1oQmtNTEhiY0FhNUZPVnRESm1xZm04WV9kRGZES3I4aVE2YXBIZlBFbmVYTDUydkh2TWREQ25QRUdXNEhKVmtjTGFZSHk1aXlvYkpJTzJUM0NTMTZrdVg3TFdyQjZjWXlVeGRoRHBqLXlsdmRtbVJRc0J3NGdWeFYxRU5BbUp4YXM?oc=5): The Defiant · 2026-11-19
-- [Tiger Global-backed fintech unicorn Razorpay is reportedly preparing to publicly file documents for its initial public offering (IPO) in India as early as next week, with plans to raise up to $600 million and a potential IPO launch in February 2027, according to a Bl](https://news.google.com/rss/articles/CBMiUkFVX3lxTE96enI3N0VPRHFHNWJoWTl2alRVZ2M4VllJbUIyaXF4ZFhrWl8xdWI2RHRRakFSdDRhcTd3bnl3OFo0ckU4VW9rRDJ6d1VXV3lfa0E?oc=5): Instagram · 2026-11-19 · _IPOs_
-- [Researchers spot ACH loopholes](https://www.paymentsdive.com/news/researchers-spot-ach-loopholes/875186/): Payments Dive · 2026-11-19
-- [Google wallet returns to Apple](https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/): Payments Dive · 2026-11-19 · _Agentic AI_
-- [The AI Gold Rush Has a CFO Problem](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjhaZ3BSMVZ3MFk1TjdQM3dTT1M5SXpSTENXTVpLc1BwVlBVWllTY1RwSERBVWtxTktlbUN3RE1oQ1M3R1Bjb2s5elFrcjBUQ3Z0ZHF4QVZVQ19FODZrMkEzSlFlUTlGODhya2NpclVYTVdfeWI1Sm9xbTljLUNLaV83ektfbzlmcDcxdGVxZDJkRUYxSGZINWluTm02Y1U3QmdtVThwNXMzSTVFWWEzdHYxd0ZwQm9sX3M1ek1mWXJLdUROSDNUNXFhOHc1ek9RTHhPUEIxMldCM3pJOFJV?oc=5): The Daily Upside · 2026-11-19
+- [Jordanian Fintech invoiceQ Raises $5 Million in Series A Round Led by Manara Ventures and Next Ventures](https://news.google.com/rss/articles/CBMiREFVX3lxTE1CekdnZkZtbWw5VkpSSHp4elVyOFBqU2NUVHhRakR3Y3NVWlpvLVUzamp5aFhpZklwTTY5ZWJOZkxoQU8w?oc=5): بوابة التكنولوجيا المالية · 2026-11-23 · _Funding rounds_
+- [Fed President pitches FedNow](https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/): Payments Dive · 2026-11-23 · _Real-time payments_
+- [Trump signs Common Cents bill](https://www.paymentsdive.com/news/trump-signs-common-cents-bill/875442/): Payments Dive · 2026-11-23
+- [Jilted at the Altar and What OPay’s Halted IPO Teaches Nigerian Fintech Boards – Soji Apampa](https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaFlMRnVwa09VRm1GRW1Qb1ozYUNxNUkwTlZURVhuUHJMQk02VmtnWlNRYmRKOHBxZVJPYTJWQVFfZ2dKR3NvdFo4UUUzVWNwbFNmOHJmSDYyczV4SU1aZkUycWNORUE1THpZYUNQaUpUTTg1YjUxaUxfSjNEVkQ0M2ZWZ0g0WU1iUjhzQ0UtMjU2MEV1Y0RNcHJnV3htd1VKaUNEa255c1gzXy0xQ2VJX29zZ1VwZmplWUZQQWd0ZXk4aHR2V1o3NFlXWU80dWVoUlc5bFVWWmdYTkxKeDNxZVRWbW9fa2xndEc3TnRCRUZlRERlamRLUkxCZzd5dVRDc2QzZFQzbGlqbG1zczhwc0ZSeFM0QzhWTWlNM2dFQmhHVlgwbTZtdVducw?oc=5): Proshare · 2026-11-23 · _IPOs_
+- [PB Fintech jumps 9% after recent rout, among top Nifty 500 gainers](https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmxQX2lMYU1yTjFYVzZONVdPaDJKVFo3TFNESVZxT3RFNEVhZDFyQk5GUUFMV1l3QkRCN3ZTQmJLRFd4MEdUTlhEMDVfaVB0Y0phamJacWM3Y2NOdFlhZ3lSZUhnM2JwX2ZFeGVBMWw3b3I2b1ZJaWY4c1lkS0FKX3ZNdU1yOUV6MG9vT2M3b2RJX2t2WU9Md3B1SmI2a29EdkE?oc=5): IndiaIPO · 2026-11-23
+- [Matters.AI Raises Rs 115 Cr In Pre-Series A Round Led By Tanglin Venture Partners](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVJ5QjV3R2c4UEMyV1h3YWt1SDRNblBLNE13d05HRnhGdEVtTFdXRFplX1IxYy1YbHpCR1NYRzNyVkdEb2pKMnpOdW92NTRrM1YxNlJLNG9tVHhYcHlsd1o3ZnJyWUhxQzlLS0dpaUtwRW1jVnNUU2M5RGpWZC1pYVZsTnFFTU5mMVhzSUdUcUpNS1BmOUxzNXFmbW8xLUUwNjVINlozU09jeGYzTjE2MFFpWU8wWTEtMkVQTkg3VQ?oc=5): BW Disrupt · 2026-11-23 · _Funding rounds_
+- [Jordanian Fintech invoiceQ Raises $5 Million in Series A Funding](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVhWOUcyX3E4VXJzT1c3blhHVmJrMFNKOEFMZmNTeWFkZnBGck9iR0RjX2NHUllsc3ZzU1BkRmFwanNxWlYtNlN2MmNvcWlGcGZTX0k5c2tLdFU5dHBTbDJyeHFFWEdZbC1iSUt1M3QzT1loSVVHX0hJNUhaZkc5STZYaW1EVXNkSnUzSU5LSVIxVFUtWTFUQXhzWQ?oc=5): CairoScene · 2026-11-23 · _Funding rounds_
+- [Tax organizations know AI is essential, but most remain structurally unready for transformation](https://www.cfodive.com/spons/tax-organizations-know-ai-is-essential-but-most-remain-structurally-unread/873700/): CFO Dive · 2026-11-23
+- [How digital dollars improve cross-border payment management](https://www.paymentsdive.com/spons/how-digital-dollars-improve-cross-border-payment-management/874849/): Payments Dive · 2026-11-23
+- [Travel brands aren’t the only ones that benefit from non-prime credit card partnerships](https://www.paymentsdive.com/spons/travel-brands-arent-the-only-ones-that-benefit-from-non-prime-credit-card/875363/): Payments Dive · 2026-11-23
+- [The CFO at the center of Amazon’s AI spending blitz](https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWRHWFZwWEQtZE5jMnF5bGtkMUtKZUJnOHlYY2YxWlNUV291Y1htS09HZjVwTFBxb01GdkFCdl9JRWs1eElPYkREWVNxd0lzQkxJZkdGY0RrR3F5UlFLLWJNd3JrM0FKb1BBTzN0ck9HblFsN0NtQ1RpRGJqYU9SMUM2ekU1a1ZEQXFxclQ4MkNNYXNzWkE?oc=5): Business Insider · 2026-11-23
+- [Olyv Raised Approx. $6M in Additional Series B Funding](https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEMzZFZUX3lfQVFUTVJWMlFXSzUyLWpfQzJZWHM4UFlYdzFJZ29mdjh2UFVGd0RVc2ZHR3J5aXZHZF8tV1ZPck9ySjNqSExPRjhhc0g5dHVCNk9ucnJsNlk5SC05VVY1bXd6cXU1dC15YXpjZDVwVWZadjNockFCVV9BXzBkYnNwU29jX3U2bDNPdDQ?oc=5): FinSMEs · 2026-11-23 · _Funding rounds_
+- [MedPal AI Raises £2.5 Million Through Share Placing and Appoints New CFO as Mounjaro Sales Expand](https://news.google.com/rss/articles/CBMieEFVX3lxTE83VkVjMDIyRlBsRHNDVjctN1hDS3VDZzZEdVFKQ29wY1Q0MkRQcjRPTVdjOHBsZDQzck93dHZWZXhkbF9aX1Q1dU5nT2hGeHFKcDA0RDV1bnV1WDdjdTdObXlORExGakNDakM0ekdzTHhFYnBySzR0RA?oc=5): Yahoo Finance UK · 2026-11-23 · _Funding rounds_
+- [Asia Digest: ADB Ventures backs Pak fintech Neem; Indonesia's Bumi Atsiri Prima eyes $5m IPO](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnY1UHRTOGZaWlRlS0l6Q2VieEpkaXFtcWFsSmJmY1Joc09DemRTSGtmYU9Ga1J6Z0lNbEtWQUlxMmZ6VnlTODg4MjBhbnZ4WXpydXJucU81OXdTVnlSbDA2dkFVcG9wS0NKOFJPNDJpbEtUMHJ6SmEyWUltQTVvVnN2Qk5pMlU?oc=5): DealStreetAsia · 2026-11-23 · _IPOs_
+- [InPrime Finserv’s founders retains 28.5% stake after Series B, valuation doubles to Rs 360 Cr](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXQ4WG81R3BNbHZMajRyUGhXZHNrdHA4aHM3ckdGMnhHWEZqRFVkd2VNdERuY3RBWUdTVllodTgzSjRkTnR4Ry1uZ2g5XzV3d0VGaXIzdW1iS0hqVzNmemtyaTF4aTBOTVUwMWROT19qVm9MdlVJQWxZWTFTM19qdTJzdmktSmtLM2xhaVRzenBPcWV6eHl6LWw2aFN1SEs3WDIxbFNOeDc2U2dTdjZ0aVdUZWhkU1lVMkxJTl83QWhIb3dOV1M40gHHAUFVX3lxTE1VdDhYbzVHcE1sdkxqNHJQaFdkc2t0cDhoczdyR0YyeEdYRmpEVWR3ZU10RG5jdEFZR1NWWWh1ODNKNGROdHhHLW5naDlfNXd3RUZpcjN1bWJLSGpXM2Z6a3JpMXhpME5NVTAxZE5PX2pWb0x2VUlBbFlZMVMzX2p1MnN2aS1Ka0szbGFpVHN6cE9xZXp4eXotbDZoU3VISzdYMjFsU054NzZTZ1N2NnRpV1RlaGRTWVUyTElOXzdBaEhvd05XUzg?oc=5): Entrackr · 2026-11-23 · _Funding rounds_
+- [Exclusive: Matters.AI to raise Rs 110 Cr in pre-Series A led by Tanglin Ventures](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFIzcmlpTkV0WjdqQW13ZkVBZ3hDejZMRm5pUURvdnNYZl8zU2p5UFZwQjk1dVNDTjZ6SUY3cm53VnhoZDFKanY4M3V5dnJSXzltWi1xaFZrOVU3UlB2aGx1QlQ5SHliamI2dGFVVHRDUjFsRHRoc3VXTDlfYTR4VTduc09leVVOeVZ2UklDbXR4aVhtVm1YNVRGWm1KNzR1ZzBGUHpfWnNuNWpDbVRMbUVSdUNxMkNFb0HSAboBQVVfeXFMUHhSM3JpaU5FdFo3akFtd2ZFQWd4Q3o2TEZuaVFEb3ZzWGZfM1NqeVBWcEI5NXVTQ042eklGN3Jud1Z4aGQxSmp2ODN1eXZyUl85bVotcWhWazlVN1JQdmhsdUJUOUh5YmpiNnRhVVR0Q1IxbER0aHN1V0w5X2E0eFU3bnNPZXlVTnlWdlJJQ210eGlYbVZtWDVURlptSjc0dWcwRlB6X1pzbjVqQ21UTG1FUnVDcTJDRW9B?oc=5): Entrackr · 2026-11-23 · _Funding rounds_
+- [PayPal Names New CFO, Overhauls Venmo, Crypto and AI Leadership As Three-Year Strategy Takes Shape](https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWZJZjIxQllsekFLT2x6WUR1a3JrSW5EVW5EbXBjd3JWSVFodmJudU5NZjNrLTZab1ZoX1llaE4xY005M2lTb1Z0ZnlzcjFPMTZsTGdIYTB1LXA1S0RUVEJVNEt1d1Ytb1J4Rk1WelhfQlF3eVV3N29fX1l5VkZrczg4MWtnX1o4NXh0T2JiOE04WlJzSUo4SEpReGI?oc=5): Yahoo Finance · 2026-11-23
+- [DayOne’s $5 billion US IPO is reportedly postponed](https://news.google.com/rss/articles/CBMie0FVX3lxTE55OWFwVGZBMm5UZFRyR3ZnWXA1YUt0d3lzdEx5S2VRR2JiWGEtRFJpSTd3clQxZkEyWVRkNEhYRktMTVdXYnpiVi1TSXhqcmR0YjU5em5nTEJoNVlrWGo5YUFaUjFENU9wZC1DQWJQdnFFaUxKS29ub0VWbw?oc=5): Asia Tech Review · 2026-11-23 · _IPOs_
+- [Nvidia CFO Colette Kress Takes Over as Interim CEO as $100 Billion AI Backstop Commitments Face a Reckoning](https://news.google.com/rss/articles/CBMidkFVX3lxTE40SE1EQ0RaYzVsTjhSN3JoWkNBdVRxQTBmdEctX2QtZ2g3TEcwV1Fic0FEVGRNdDgweGNEaHdLRDZXaEtTYmpsTzFNNXJrQWkyTkxyalhjLXlWMHN1VXE1Ri1USVlwcl9ULVNFM0FzTEg4RlhnelE?oc=5): BigGo Finance · 2026-11-23
+- [As Wall Street Questions AI, CFOs Make it Earn its Keep](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWhfOHFPNEwycTBDdXVJQWxjUVFjUWFSeXlDRlAwU0VPQmxRSC1ieVkwbkdPdE9CTEFra09zQm9pdWVKVWxlOENEQmJSc21MWGU5UmVBWmY4X2lFeTA1NlJCRndMZVdLVjRTSDVVckJheUpsZWttR3RwZkN2OWxMd0xMNWloNzRtUFJvSlJ0T1pFc05IdmRWbUxmbmhXNFNfVVJSYW4wbDZhN1dmelNpN190WFlYVXlH?oc=5): Bloomberg.com · 2026-11-22
+- [BridgeWise Files for a Tel Aviv IPO Instead of Crossing the Atlantic: Report](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkxHT2ZGakhIWmp1ZnUybms0eWJZQzJ6ck1CaFJtb1lPX2ZQNDRHU090c3lnTldUQWJ2elFzQ2pfUllwWmlwRFNBY3QyLTdrMXM0eW8tdHM2Y1ZHOVdQSGhpejZsUnJHMjU2NDd0RW1RaXoxeEN2RnZqdDhhMFM5andZVkI2bWliOHo1MVpHMC11TDFYX3ExNjUzWHNwaHA5T1BwUXB4Q2lGZXEtMExkZlZqcFQ?oc=5): Finance Magnates · 2026-11-22 · _IPOs_
+- [Fintech co BridgeWise files for TASE flotation](https://news.google.com/rss/articles/CBMijwFBVV95cUxNY195VU43dDZON2dkZmF6SFU5ZmhKNXdZT25WVHB1LTgxYTdEZUM4Xy0wNEdDc0hUQzFDMkktbzRHcTk2YUtjakpjdkN3S21Ia3p0aE9wdHV1Z05sWU9qNkFPVG52cEZWWTY1ZUNCQVpsbUZqVXhNWnB5ZG1zYXNzWjJOUHoxeE9MVW4zeVZhWQ?oc=5): Globes - Israel Business News · 2026-11-22
+- [Fintech BridgeWise heads for IPO after losing $33 million in 18 months](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ON3NuelFaTndhcS1RdEJ1ZmMwS09uOXRlTlFHODQ3RVU5X3lTc2tEZTVzS044RE55M1gtV21rd1BHajhvSl9qUXBXejNQZTVGYTJFblhpZ3hPUFAtVU9VTVV4NGdoQm8?oc=5): CTech · 2026-11-22 · _IPOs_
+- [SAP CFO Sees Headcount Declining as AI Boosts Productivity, Plans New Revenue Metric](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3V4d2ZreWcxVzlOalRzLVdhaDA1czJ2S0ZlYURwSEpKYWctTDZPREg2LW9iQnF0RVozMXVFYVhxOURzOV8zM0lrZ0lRa1BtelpOZ0d5Y240RlB5dkswY0pRS0lyc1k2VWlJbG83dEJjdXMwRFJDUDN0ZlRIaFlhX3p4RGhDUTVwTlhaUFUyRDBVQXh0SXB5ZTcwN1k?oc=5): Yahoo Finance · 2026-11-21
+- [Payhawk's $280M round, Kalshi's raise talks, Payward buys Tribe Capital](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXAyUi1WRVNiVjBwQkJVRjFVQm1qd2dLaWJhcXAyU1hQN2ZpeE5HTmRGZFk3TmlNZ1ZYaXI5UjNyeHVFSzJmZjVyMThfbTJwcWpBUS1ycWFoLTctWjBUYmNJSFZXaS03TmVkcGdKTzdCOTJkVWJ6Vkc1UE41M2lvV3JoMlJ3cmRDb1RnY1h6ckt6dlhlNVNJ?oc=5): Axios · 2026-11-21
 
 ## Source health
 
 - ✅ **SEC EDGAR**: 25 matching filings
 - ✅ **Market data**: 16 tickers
-- ✅ **News feeds**: 83 headlines from 7 feeds
+- ✅ **News feeds**: 39 headlines from 7 feeds
 
 ---
 *Generated automatically by [fintech-signal-tracker](https://github.com/adij26/fintech-signal-tracker). Public data only. Not investment advice.*
