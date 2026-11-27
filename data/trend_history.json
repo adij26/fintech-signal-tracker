@@ -76,5 +76,18 @@
   "Real-time payments": 0,
   "Regulation": 3,
   "Stablecoins": 0
+ },
+ "2026-11-27": {
+  "AI in finance": 1,
+  "Agentic AI": 1,
+  "Close & FP&A automation": 0,
+  "Embedded finance": 1,
+  "Fraud & risk": 1,
+  "Funding rounds": 18,
+  "IPOs": 29,
+  "M&A": 3,
+  "Real-time payments": 0,
+  "Regulation": 1,
+  "Stablecoins": 0
  }
 }

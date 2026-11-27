@@ -1,10 +1,10 @@
-# Fintech & OCFO Signals: Thursday, November 26, 2026
+# Fintech & OCFO Signals: Friday, November 27, 2026
 
 ## At a glance
 
 - **25** fintech-related IPO filings in the last 30 days, most recently **BEHNEH Ltd** (2026-11-06).
-- Biggest 5-day move up: **BlackLine** ▲15.2%; down: **Intuit** ▼13.3%.
-- Heating up in the news: **Funding rounds**, **IPOs**, **M&A**.
+- Biggest 5-day move up: **BlackLine** ▲19.3%; down: **Intuit** ▼11.7%.
+- Heating up in the news: **M&A**.
 
 ## 🚀 IPO signals
 
@@ -40,100 +40,100 @@ S-1 / F-1 registration statements filed in the last 30 days that mention fintech
 
 ## 📈 Market
 
-Benchmarks: S&P 500 (SPY) ▼0.3% today, ▼6.9% 1M · Global X FinTech ETF ▲1.4% today, ▼8.1% 1M
+Benchmarks: S&P 500 (SPY) ▲0.8% today, ▼6.4% 1M · Global X FinTech ETF ▲1.8% today, ▼6.3% 1M
 
 | Group | Avg 1M | vs S&P 500 (SPY) |
 |---|---:|---:|
-| Office of the CFO software | ▼0.8% | +6.0 pts |
-| Payments & lending | ▼5.2% | +1.6 pts |
-| Crypto & trading | ▼33.0% | -26.1 pts |
-| Recent fintech IPOs | ▼6.7% | +0.2 pts |
+| Office of the CFO software | ▲1.2% | +7.7 pts |
+| Payments & lending | ▼4.5% | +2.0 pts |
+| Crypto & trading | ▼31.1% | -24.7 pts |
+| Recent fintech IPOs | ▼6.3% | +0.1 pts |
 
 **Office of the CFO software**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| INTU | Intuit | 271.72 | ▼2.8% | ▼13.3% | ▼17.3% | ▼59.8% |
-| WDAY | Workday | 180.44 | ▲0.7% | ▲1.7% | ▼12.2% | ▼19.6% |
-| BILL | BILL Holdings | 61.55 | ▲0.2% | ▼6.8% | ▲24.6% | ▼6.8% |
-| BL | BlackLine | 28.42 | ▲6.6% | ▲15.2% | ▼16.6% | ▼51.7% |
-| ADP | ADP | 316.72 | ▲1.9% | ▲3.6% | ▲8.1% | 0.0% |
-| PAYX | Paychex | 118.49 | ▲3.0% | ▲4.2% | ▲8.4% | ▼7.0% |
+| INTU | Intuit | 273.70 | ▲0.7% | ▼11.7% | ▼16.6% | ▼59.5% |
+| WDAY | Workday | 180.39 | ▼0.0% | ▲4.1% | ▼11.7% | ▼19.6% |
+| BILL | BILL Holdings | 61.68 | ▲0.2% | ▼3.8% | ▲28.4% | ▼6.6% |
+| BL | BlackLine | 29.27 | ▲3.0% | ▲19.3% | ▼13.4% | ▼50.2% |
+| ADP | ADP | 318.43 | ▲0.5% | ▲5.7% | ▲11.6% | 0.0% |
+| PAYX | Paychex | 118.14 | ▼0.3% | ▲6.0% | ▲9.2% | ▼7.2% |
 
 **Payments & lending**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| PYPL | PayPal | 57.81 | ▲2.9% | ▼0.1% | ▲3.1% | ▼8.1% |
-| XYZ | Block | 76.10 | ▲2.6% | ▼3.7% | ▲1.6% | ▼14.1% |
-| AFRM | Affirm | 60.52 | ▲1.8% | ▲2.7% | ▼16.7% | ▼29.4% |
-| SOFI | SoFi | 13.07 | ▲1.6% | ▼7.4% | ▼20.3% | ▼56.0% |
-| TOST | Toast | 33.71 | ▲0.1% | ▼0.8% | ▲6.1% | ▼9.6% |
+| PYPL | PayPal | 59.17 | ▲2.4% | ▲5.0% | ▲4.6% | ▼5.9% |
+| XYZ | Block | 78.02 | ▲2.5% | ▲5.1% | ▲3.7% | ▼11.9% |
+| AFRM | Affirm | 61.15 | ▲1.0% | ▲7.5% | ▼16.6% | ▼28.7% |
+| SOFI | SoFi | 13.31 | ▲1.9% | ▼1.6% | ▼22.3% | ▼55.2% |
+| TOST | Toast | 34.59 | ▲2.6% | ▲8.6% | ▲8.3% | ▼7.2% |
 
 **Crypto & trading**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| COIN | Coinbase | 103.72 | ▲1.3% | ▼6.1% | ▼35.6% | ▼62.6% |
-| HOOD | Robinhood | 65.78 | ▲0.2% | ▼4.9% | ▼30.4% | ▼52.0% |
+| COIN | Coinbase | 105.63 | ▲1.8% | ▼3.0% | ▼34.9% | ▼61.9% |
+| HOOD | Robinhood | 66.54 | ▲1.2% | ▼3.1% | ▼27.2% | ▼51.5% |
 
 **Recent fintech IPOs**
 
 | Ticker | Company | Price | 1D | 5D | 1M | Off high |
 |---|---|---:|---:|---:|---:|---:|
-| CRCL | Circle | 48.27 | ▲1.1% | ▼9.4% | ▼40.8% | ▼63.7% |
-| CHYM | Chime | 33.03 | ▲0.6% | ▲2.5% | ▲15.7% | ▼4.4% |
-| KLAR | Klarna | 13.34 | ▲0.5% | ▼7.7% | ▲5.1% | ▼59.0% |
+| CRCL | Circle | 48.80 | ▲1.1% | ▼5.9% | ▼40.3% | ▼63.3% |
+| CHYM | Chime | 33.70 | ▲2.0% | ▲9.2% | ▲17.0% | ▼2.5% |
+| KLAR | Klarna | 13.73 | ▲2.9% | ▲8.4% | ▲4.3% | ▼57.8% |
 
 ## 🔥 Trends in the headlines
 
 | Topic | Mentions today | Recent avg | Signal |
 |---|---:|---:|---|
-| Funding rounds | 31 | 16.6 | 🔥 heating up |
-| IPOs | 29 | 18.2 | 🔥 heating up |
-| M&A | 3 | 1 | 🔥 heating up |
-| Agentic AI | 3 | 3.4 | → steady |
-| Regulation | 3 | 3 | → steady |
-| AI in finance | 2 | 0.2 | → steady |
-| Embedded finance | 1 | 0 | → steady |
+| M&A | 3 | 1.3 | 🔥 heating up |
+| IPOs | 29 | 20 | → steady |
+| Funding rounds | 18 | 19 | → steady |
+| AI in finance | 1 | 0.5 | → steady |
+| Embedded finance | 1 | 0.2 | → steady |
+| Fraud & risk | 1 | 0 | → steady |
+| Agentic AI | 1 | 3.3 | ❄️ cooling |
+| Regulation | 1 | 3 | ❄️ cooling |
 | Stablecoins | 0 | 0 | · quiet |
-| Real-time payments | 0 | 0.6 | · quiet |
+| Real-time payments | 0 | 0.5 | · quiet |
 | Close & FP&A automation | 0 | 0.2 | · quiet |
-| Fraud & risk | 0 | 0 | · quiet |
 
 ## 📰 Headlines
 
-- [EY Cyprus brings AI and Corporate Reporting together to explore the redesigned CFO agenda](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNS0zd0daZ1VqWDRqbFNOdkdUcFlrSkpIOWhNRDlMM0lvSnBUNTFkQVJrZVdNM2hEODFkdEFoREhldmFlOFA3Q3NiLS1nOGVzcWJEcFdUalFYNUloQnE3eEEyUEljekw4Y1FwaXdudXR3RTJUcEtGWmItZ2NpREl5M181TU5hMnUyRHhlSzMwXzhqZWRxaThkRTdzbXlMWHphU3A0VjB3N2pTMlZ6RlZ5REFNSFVOeGZ5QnB2c0tERW9ONzg4dTdmY1hpaFNDbjg?oc=5): Knews, Kathimerini · 2026-11-26
+- [PhonePe Eyes a $15 Billion IPO Valuation: Who Gets the Proceeds?](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmUtekpjLXBjdFRuRTlOMWhMVk9iYUV5ajRKUTM2akhWbGJzYUpwZk4zc3lmRU1jclRWV0tDY1V3Nkt0NmtsVzlhdGFwOWhGVjRjLTBIWGI2eVc3dGNlSGdFQjBYNFl3cjA5NXlxckUwUkIyV2JXXzdYckZsOHVxTA?oc=5): TechRepublic · 2026-11-27 · _IPOs_
+- [ICYMI fintech funding round-up: Ulys, Audun, Acorda, and more](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU81LTlCZDVYaXBJSFRTVHdpNUNNd3JMcl9laHkwMWljTkVKMVRmNHUweUc4NHZkb1ZGcllCZDhZUUItbVRZSVNQXzIzOG1kRTRlTTRYWFNHNENLd2Izc0lSSTUyQlFsSGpwRGFGNk5XZTVFZzlTVzBZZlRPOXh4SGZoZHpDdnhuMDB5dVk1b2ViRm04R2dHOWM3T3gxbGNVQWpFWGh0bnlDSXY1czl5OWdn?oc=5): FinTech Futures · 2026-11-27 · _Funding rounds_
+- [Investing in Neuralink | How to Buy Pre-IPO Shares](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEtrWF9UNmhWVXVwRGlGdjd1QVQtaHJKYm0xV3ZMbXVMYzZYZzlnR3ZyVHhKX19PZWpIY2RqVlVRVXNDOEhaaG5zQTVyV2JzT0h2YkdMSmkyNS1lczl6cHNaRlZJYjdmeUhQamxWNXZXUFRtTTRBNDBKN3pIWmt0Xw?oc=5): Securities.io · 2026-11-27 · _IPOs, M&A_
+- [November 2026: Top five fintech funding stories of the month](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUQ0aDRIeEdhNmpmMkdMZUtqenBUZXdmVTR2cF9UVUxwUEpvMW41UHZMMXlCUUJicFBSdS1jS1V3Q1JvdEFKeWhab1hVX0g0QXlPdHhHY0JraEFSY0FrM3Q4dExMVUJlZnNMblpJSUNnMEtRcTVSaWxkVmFQYVdYUk4zYnJJeklLdzduMjE4MDZQRmQzbzBwRGktaV9aV0t4UmplT3EweTlOVWtyR3p5NUdrZFc?oc=5): FinTech Futures · 2026-11-27
+- [4th SEE CFO Compass Survey](https://news.google.com/rss/articles/CBMickFVX3lxTE44dWl6Q2FSejF1NmFpbmphV0dsc2J1aEpHUXdIZUtCY3NIV1d0di0zdzU3RDBlZ0QyeGJuLWI4dGxKUjhOS3A0Y3RmVHltOFVvNEM1eUllOHRrbGw4QVhOZWxBMVJiT2xYVDdROC1xa3d1Zw?oc=5): PwC · 2026-11-27
+- [Canadian CFOs are steering AI as the finance function transforms](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeDUzVzc0Ymc1STcyZHFvRTV2VWtJQjVCMkdSX1cza0tKZnpuck5TbnE4NHZzNHJfZXFiXzdoWlZtc0d0QzNyME5SZzRTNlhhNHlfaW9vblBLRUlXZ3c1Qjd6bUFFaHU0UGhJRW55SlFVR3pMZGRScXRLQWdGaW1yTVVpVUd0V0UwOXRTcVAwTEwyMlp6MGVQY01lcFloY3IyQkp4ZURQRndRVm1BaGJHY3ljbUgyOTRiSV9hdEdRcFFvQQ?oc=5): Wealth Professional · 2026-11-27
+- [BharatGen Patram 1.5 Targets KYC and Bank Document AI](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VU1JJaGVwc2dXX2FaZUFiR3EtalFVZHBmc0N5eG5vdk9tTG9pNS1OanU1TXNwelBkMi1XQmU5ZmViQmhKTXFEblVxNFhuQ3hTbFg1SFFhblV4Rkp6c3o5RFBEX2Q2amZr?oc=5): Elets BFSI · 2026-11-27 · _Fraud & risk_
+- [IF Insights: Nasdaq runs away with America’s record IPO year](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLVRzbThFQktwVDlKcHZ3N284RzBvdU5Ed1dvYUZYZlFHa21hS2ZNUHloU1hoM0JrdnNDWWZHd1pHa193ajFielh5WGhoakZvWF9yUnAxODFsZWhoaGw5Ty1lV1FpXzhGOHl5Sm1hWFVXNWdyU0hwM28wYWtNSVBJNm5jbTl4NDd5VlBZYVpFYVFRYXFPOXg0TTRic0NlcXFaSmc?oc=5): https://internationalfinance.com/ · 2026-11-27 · _IPOs_
+- [The Finance Leader as Strategic Architect: How Snowflake Intelligence Transforms the Modern CFO](https://news.google.com/rss/articles/CBMicEFVX3lxTE91MFB0djg2aFdvM3NwQlFleVVZdHFLTXdsUC1fcFlVSUpVdGVZc3Q0SU9mVFZmZE1jX0g3VURzQUdlVEtKT0djWnd1ZXFGRmN3TTgzOVNOUGJFRkdhMjQwVG9OZ2JMeVU3azUwdDlVMTY?oc=5): Snowflake · 2026-11-27
+- [CFOs have a growing say in how companies deploy AI](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2JEOFhnNEgxdWgzdHBHNTVLOWZVQ3NzU01ydnphNTlyWlhYX245NERyODdsSjAzQ1FCcFd1VTd6TVpzaTJ5TDludEduaFNqYWI1SHExSTJDaHVBQk12bHJVMld5TXlJVkQwcmhHdjNHOXozaEtWbURBZWRUN29PU2dxV2NuNURsTXNDWTRrZGd2RXpq?oc=5): Digital Journal · 2026-11-27
+- [Fintech Appointments – CEO, CFO & Board Moves](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVQkx5cTZoSHlTU0VXbnpVSnVVbWpjUUl5MnVBNUpKWm13c05aTXVNN0I4MHh4a2dYQXhLbFQ0R2NabWVTU2E2dnEwMktReUxx?oc=5): FF News · 2026-11-26
+- [Dexus (DXS) Names Kerri Leech Interim CFO From 18 December](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV84TkVvcjVmVVVGR3hjWldMSTgyU1M1QmdKc2o2cDJmME9MeVVQYUlSazZXSWE5NVQ0VHdsRnNYanM5UVhJT25Ha0IweE1sX05Xa0hBY1Blajk0TDNORHZYa0YyUVVRZWJKSG5IQ2xqLS12ektKZW5GQ3RFVFFlZW5JdkxRTVNqOHNjM0JXTWxBV2JkeUFZZmlVbzRmTGdKSktrNnRWMlU4VzVyMjFhdF9LUnVGUm1pQ0JmNkd3ZkJQdw?oc=5): TradingView · 2026-11-26
+- [Bell AI Fabric Undervalued In BCE (NYSE: BCE) Share Price, CFO Says As Contracted Capacity Hits 335 Megawatts](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbkpwZU1FY1ZVRUNLRzYzT3lwWlIzVTV3Y0VrcHBFWW0xSUlwbXdnYXBnRUdPWUtTQmRqd3dXQ1RTWF83bE9VNkVRVnJ4ZkhXOG5zVURTQndnRGM3ZmxfTWh5Y054Zm5raGlRRTYwWUx4VlQ0MHZEUS1XWHlyOHhraC1acndIclg0T0pVbTFCOGxCRmM2Wk1oUllmWGpiNnQ1SHpmOHNiVXlIUkNtSnp2VGZ6VUU1a3NqeEtxeEs5Y1AzU1NpY0U1ODQ2Q2tpTVA0QnZRNWF2ektBcExYNzRFOVI3ZDA4Rm96dmc?oc=5): Foreign Policy Journal · 2026-11-26
 - [PhonePe IPO Revival: Walmart-Backed Fintech Eyes March 2027 Listing at $15 Billion Valuation](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEs1RHJzZzN2dFA5amFybmIwTzEtTHkxRHR6QzB5WE9lb0IzUmt4OTFQMEFtWVNZblVRSUg5bEx1NVRVN1VuaVMtU2RoaVc4VlhtS181LXBQd2Vxcm9IOTFEZm16RnF2VWpXOVR6NU1QcmJMUk9hOFJMalRId25FNXpvZ1Rxd3hONlp2QlNhdWZQS3pwVFE?oc=5): theopenpress.in · 2026-11-26 · _IPOs_
+- [NBIS, IREN, MRVL Stocks Rally: Nvidia Vows To Keep AI Financing Flywheel Turning, But ‘Disciplined’ – Analyst Calls Neoclouds Its ‘Biggest Sustained Bet’](https://news.google.com/rss/articles/CBMirAJBVV95cUxPSGNXbGNZUlVhWWdvTi1XVEVmZTlDcF9KdlU3Slh5TlpMYkFqQWlXQ1o2QWVYUzVmdXBwYmE1T1ZXamdUdmN1TWNBU3dYQW16TWFRZmhjbjJQZ2JTV0FzejJzaUZQT0gwa3FjZ2xEZVFySUsxSzh4T0pVZ24yTlVHTGF2eUIzcHFPbXNKT0hmM0NnYlpJQlZzQjdJYWUzRFBsQnhMN2NPVUdjR2Y2UVY0VEFIY1RsdkE2SmV2UUZUQXNILTdnQllIbDdtaFJvbmFUVEoxUFVLRmtTWURjUjA1Y2s3YWZNeHA4aDZmYWk4MXRDYWFqYzJSLVJCRTdCZ0ZLcXVkbURpY0hlVG1Gbm9rTlBQM2lHOEFOcTUybzZ4c0NVUVNLbXFFYUZEVlA?oc=5): Stocktwits · 2026-11-26
+- [SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZl9kNWloY0RxRFF1QjBna0FEOWg0cXNvZzZnaWFnY3RCTU0yZWkzeFJjS0ZpRnZoVk1lWE5yZW1YZ0NrX1BZOXRVQWE4dndMME9RLTV6cnFIbUJzQWlmU0VSQnRnZjB2bmVqNnkxa2VWcmdaZzNxSFpYOVJFcW1DWm1wTFp5LXRreFdYWFljT3MtUmZYaEE?oc=5): Yahoo Finance · 2026-11-26
+- [Algebra Ventures and Disruptech Ventures lead Connect Money’s $3.5m pre-Series A](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZk9kUldRZXAtckFTRXBlT2QwRDYyNmpFOWZRanZtUWowUTcwLUJQdFVQa2RNd2pNRGh1c1owbnYxVVRXVEdrbFFlNWtOeEVmWjNqVWJYOTJZY1NuTGtQUk1aaXg5VGVqbkZudGxPbmQxaDN2alljMXFFYnh3TlZKbkowS1R5clRSeVE?oc=5): Africa Private Equity News · 2026-11-26 · _Funding rounds_
+- [CFOs Take Larger Role in AI Decisions](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHZnSW1PWUZkLXRFN2tPc0g1c0h6dlZ5dGRBTGJSdUZXNkw2QlZXbFI0M1NreEdLOVFFT2FIYjBvV2tzc3J2RzlsTF9Va3Y0cGNYTTdwLVlJUG14QlFPcE5kU0JOODRxNFdMRkxaN1FOZVE3SnhnODVZWlBNZENqTVk0R0xzRDVRUmlrTlVBbw?oc=5): Wisevoter · 2026-11-26
+- [EY Cyprus brings AI and Corporate Reporting together to explore the redesigned CFO agenda](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNS0zd0daZ1VqWDRqbFNOdkdUcFlrSkpIOWhNRDlMM0lvSnBUNTFkQVJrZVdNM2hEODFkdEFoREhldmFlOFA3Q3NiLS1nOGVzcWJEcFdUalFYNUloQnE3eEEyUEljekw4Y1FwaXdudXR3RTJUcEtGWmItZ2NpREl5M181TU5hMnUyRHhlSzMwXzhqZWRxaThkRTdzbXlMWHphU3A0VjB3N2pTMlZ6RlZ5REFNSFVOeGZ5QnB2c0tERW9ONzg4dTdmY1hpaFNDbjg?oc=5): Knews, Kathimerini · 2026-11-26
 - [Sooner raises $20m to halve UAE home down payments](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb29zbmptOC1Ua0NCQldCVlY3VTRKeVFkNUpMNmZ5ZVpmQXVKZUpYX0w2aTJsWVhIbGc3Q1ZLOTVIak5JdGJFUHFva2VaUThoT0JLQ1FIcnNmZ1Z0NjRBall3RWJCOTM2cW81ZHV3dFpQTkJMQTB2djRUdlg0alZ3RFZQZ0VmSjVqa3dlNg?oc=5): FinTech Global · 2026-11-26 · _Funding rounds_
 - [Vegapay raises $10M in Series A round co-led by Vertex Ventures, Prosus](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVEdlM1ctQ3RHc0VBNTRKTnA3TmMzVnBxUjAySHlOM0hqSDF1Tml5UWp1aTJLRlprTGNrV2hIdHduNjhHSGlFMUtaS1FkMHdpUGJGWW1MX2lIZFBPRWdWR0s0SVVkVm5EUDZDU2VDdy02dDRkMDFiVFRUYVJvQnZBTEl0VDlrRUNaeDNjZFMzYnBhLTRyeVI4YU9fQzBtT0Jh?oc=5): YourStory.com · 2026-11-26 · _Funding rounds_
+- [After 11 days as Nvidia CEO, Colette Kress returns to an increasingly complicated CFO job](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00TW9MTUt5UWIxTC1oandUM0RHaEtqaW5vSkVja1NaQjhQNlI1aERSWmxRN1V5VEZiZmVCSURrWXh6X081dEpxbUU5SlJfQXNRdFUxdjJvamZYREhSYkRTQmZkTngzczg?oc=5): CTech · 2026-11-26
 - [LO:TECH Raises $12m Series A to Bridge Digital and Tokenised Markets](https://news.google.com/rss/articles/CBMimwFBVV95cUxObXYzUE1vcVF4ajA0b050dmwwNExhV3g0ZWtnTzNqNnhrUFdCQlJ3czNyc3VhR3NPN0t4ekdON0dhRzNpOFI3eU95ZHR0LVJRUkg5SU9qa1NDNHp1OG1SSllBSDF2ZnZsQTF2VDV1M2JqalBCU0lyeDJTSDQyMmVIVFFFNzBWNWFQVXZ2QldFVHgzbEZzOW9oU0lkTQ?oc=5): The Fintech Times · 2026-11-26 · _Funding rounds_
 - [Startup News Today: Flipkart, PhonePe, Deeptech & Funding](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUThsVS1vbHJqZlExZktPQTJYQ0NTOTZSZEJWSUloZl93X2VBVXQxSjhPbzItQ2o4Wjd0Y2hYNmhNb1BHc3RSdDR3am9RWmRmVmU5VzFhSllJdEhrVW5ESUpIUFVTbl9UOGQyX2FpLUNxbnJyVmMzSHMwSG5YQmFITUlHVTNxZ01CdmxXUFlua3FVMkxzd3fSAZYBQVVfeXFMT1E4bFUtb2xyamZRMWZLT0EyWENDUzk2UmRCVklJaGZfd19lQVV0MUo4T28yLUNqOFo3dGNoWDZoTW9QR3N0UnQ0d2pvUVpkZlZlOVcxYUpZSXRIa1VuRElKSFBVU25fVDhkMl9haS1DcW5yclZjM0hzMEhuWEJhSE1JR1UzcWdNQnZsV1BZbmtxVTJMc3d3?oc=5): TICE News · 2026-11-26
 - [Fintech firm Finnable raises Rs 405 Cr in Series C](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3paRFZpSVZLSWlqVERNTU1COGNwSldTOXhGY0U3N1BJOVNPOHBQakc0N1UybWZPLXctendmMmJVSUVpcU5jdUFBamdXV0dVR1ZieEVJTEJLU251bS1jeDNWdGM4VjRNeVJscXBLMUdEQjlhQ2NjV2NqZHYxZDlqUVJJWUxuTEJYSk0yeE9DLWxuRjhta29wSm5lRlYxcjVaSkZ1cWk1b3ZkSHhsREhHcHNR?oc=5): Exchange4Media · 2026-11-26 · _Funding rounds_
-- [First circle capital raises $26 million to finance Africa’s next generation of fintech startups](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEdScEwydnQ1MDV3aTZoVmFWTDVabHV3X05JNEV1SWx0SDNuODhkSXhiX3dDX0FRbWsweks2ZlhmVDZGWGs0Mmp1OGZKWExyRTFPMUVzRl9wVVVUT1ZiRVpvZklhbnprZU8xbjBaYjFoMGFpMlJQYk5ZR2ZVcXVveDV3MUd5b0w5RVRZY1BuTDAwSkszTlREQVFYbnBJU2k5Ykg5WE9zZEZnbU5wRlA1X3htWHBMUk5PcFhjM2pLTzJ5cVpM?oc=5): TV47 Digital · 2026-11-26 · _Funding rounds_
-- [CFO success with AI starts with a strategy overhaul](https://news.google.com/rss/articles/CBMimgFBVV95cUxNYTNnS2lwa2F5QVJNVjhkcXlhenBOcHNIRTdXZTVLN0FhUzBCUUx1LTFjWU9GN0tsM3lKOGdXNnpCeVVUdF9JaV82Z2ZBMm1kVURaQzhPeUladzVUNm1kN0Ffb2dMcmpGQ0J6NnFYbERzblMtNzZfT1dZS2lNa1NQaWJJcFplVUNMWlRGUl9XSGpaSGpfekt5dmRR?oc=5): Yahoo Finance · 2026-11-26
-- [SA’s Community Wolf raises seed funding round led by Terra Industries](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORDVjVWVzeDBCb2pPOVl4UklKU0VaeHZmM2l2NzhZUzZGT3FFejZ6Y2cybXhBbFFWd2VrZktOaEY3Sk5CUXUzdjZYZ2xuOUx3bzhQNHRDVnBRRDlGYnN4RnUtNk5ZZFFMYldqTFJyRm5pSHlMaXJsSi1icnJvUFd1X1ZiTm9PSUo3ZHZLZHNjeFRuVXgtUmxaVkExZzktT1VzaXpDbC1ORWZBZw?oc=5): - Disrupt Africa · 2026-11-26 · _Funding rounds_
-- [PhonePe restarts IPO process, targets February-March listing at up to ₹1.5 lakh crore valuation](https://news.google.com/rss/articles/CBMiggJBVV95cUxQaWJqa3RCeXota1dfalFmenJtaFZUWXpOX2FYNVdFODFNMnU1QllaU0R4NjVOM245MjdYalJjQkRhaUdWRnlYck9MdGduVkw2bDY4c2FFeVJaVmpENUk5MlJ1eVpYOUdGWGI3YkJ3Y1VXdFVvMVVldDNCeUVhWDRkd251RXhaSEFSVmpZNkV1d0Z1aFlUNzZSSHdod3JIZGdYZlVxbzhOOTY4cHFGNG9zNnM2UEtJcEF0Sm5DYU1LaThzOXdKOXRQZWRwWFVROW83UEo4S3VITTFJNExtdUFrcjBKWE1yUGs0Sm5Kb3hLd1hmc2VFcnN1R0ZSSU5DVnZqRHc?oc=5): Dailyhunt · 2026-11-26 · _IPOs_
-- [PhonePe resumes IPO preparations with up to $15 billion target](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZRjliTlhVQVQxV2xZZDNfTEg1Z3NZOXJVcmZLUklndUR0dGNlTXlWc1BLd05lcmJGT0t4dHhtRnNKWUV5bklUajhvMEhSZURPd3VwQ2NDMjhqOWRITzFhM3FBcmNhR0JUc1N1Ug?oc=5): TNGlobal · 2026-11-26 · _IPOs_
-- [IT runs the AI, finance pays the bill: how to keep token costs under control](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeE5nM1pMNm5MNnNVSTlZbTB0S0FLay0yTVNLemVZNUVYSVFBbmgtSFRGUWtrR2lGa2xGQXVNRGFqeUNOcmhZUDRBZXljNUgtVl9Tc0VmWktnVE9kcUJvaWZTM1EwZEVPVkZTMEJQRG8tdG9WdkhYOHNwZVpvLTVwcU1NZ0RXM2Z3QkRkOGFlQVBtQXh2UGQzU1paZFM4N3AxWGln?oc=5): CFOtech Asia · 2026-11-26
-- [The 2027 Singapore CFO Agenda: Finance Transformation, AI and Financial Control](https://news.google.com/rss/articles/CBMibkFVX3lxTE5sSXY1UjVBRkRaYUpGU1MtRTY1WDBaRHR4bGFlTkNCOXhmQXp6dkJxcG4xQm4zV3BTYnZ1YlpsOERvVEswZkl2M1pibjlUR2M5cGFxTGg4ajZCLU9HbWpYcl82YUdCMjF0VGdla2x3?oc=5): ASEAN Briefing · 2026-11-26
-- [Vegapay Raises $10 Mn In Series A Round Led By Vertex Ventures, Prosus](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGpiMS1vRnNGSTRXdlpMc0NaYTM0SW9KeHc3S2ZsX29NaGhiQVJKeXp3d3oxb3h6aC1JcTUtalpsdjRUeUs2NkpqdjlkclNVYWp4MWxQeDUtMXRqM1NZck96dFc5MGNfQkl0bWJRT05ua0ZXVkFRaEpKQ1dZcGluV0d5VGNwckxzM29INXdtTkUyWUh0RWJHV25sWnBJNUpPdVFmd1pCblBHcm02TzdkZFZsTi1qbDVXNEFZYk56cjg3ck0?oc=5): TradingView · 2026-11-26 · _Funding rounds_
-- [NBFC Firm Finnable Raises Rs 405 Cr In Series C Led By Bharat Value Fund](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFRQa1ZKanlrTDZJel9rSy14VWJYNERHSElnczVOb2tmQjFfRzc3dnNhcjVHVXVYckF1ekZKcjZnLUFQWVRLTW9yc0VzN0ZWckNsSlBDVXEwN1h3dnhSYjdxd3RNSUFjRzR3dzBKMkRtbmpwdnp0YnRBY1ZmSjRJS3RGVklqNjVGb1ExWnhFTTR4WExmYmd6MERmaWtBcEhzOFRJVVQtZXBfUEYtTkV0b3A4VQ?oc=5): BW Disrupt · 2026-11-26 · _Funding rounds_
-- [PhonePe IPO: PhonePe Revives Listing Plans, Targets $15 Billion Valuation for 2027 Debut](https://news.google.com/rss/articles/CBMigwFBVV95cUxNOEVVamVyTm1qaTlvcFA2enQ3VGpFVXJqaEZDWUZLVlBDTjhuLTZwVUY5dXRWdkQ0OXF5aE1jcUlRRUVFR1hveGc3TzQ0MVJCcFd2VndyWWFKbVlTb2JjbTNVdnJJVHNmYXpldHlaTFNpT2MtZllnQ094RndZc2QzVTk4MA?oc=5): theopenpress.in · 2026-11-26 · _IPOs_
-- [Vegapay raises $10 mn series A funding led by Vertex Ventures, Prosus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZG1xV0pMZXVIc3NfWHZ1aUVONEZEQ281SnUwRXo0TWdDaUxOQWxEc0pBN2xHQi15OTZZbWJ3ZGNjaXU3WmRGcm91TTFtc3NWeFRxV0hxUmFWN194VWlQSFBrV05aZk54dUlPOFJIQ1diTWxIcEYzZEtqUC0zY1FIMUFwV2dtR2s2TGloU3MzNjQ0OHl5UlZXLUJDTWZhc3RSX1hoTURjUDVINzFZYjJobllodlZGTkI3MnVpNGxHSU1taTRlTVdTay1hZXkxeWZHU0tObjNuTdIB3AFBVV95cUxNb2E3V2dRbmxqbENBdTdXalcwZkpRWVhuWGhyZllIOF8yZXk4bUl4VGlra1d1OC0ydlZMeDR5bUUyUFFyWllicWJsNjUwVmJLTUpDdVh5Y1Z4NWsxSmxRdTZDVGt1TGlGZDRrb01TeElsaGZUUDh1dVVaMWF5SDN5dVBldVZiTEFTMTlLYkpqZkxSM3FrM3NveFBmTldSTFRaUkcxUFVicHdfVFFPMDZ3TUhFcXN5YTJLaDRmUXo1ejBlTFV6ZGpTZ1lYc2w0RFFkQUF4czZhZWpkWko4?oc=5): ET Entrepreneur · 2026-11-26 · _Funding rounds_
-- [Lok Capital raises $130 mn for Fund V targeting fintech and climate investments](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkc2dno1b18yR0FNcXNBZFpybEFJX2VZUVJjUi1aQzh5N0FCMG9zU0tXSlUxbHg0YkRmTVF2d2NXWFZrV1k1ZnZDajkzcWxadVJMYXlzcmZCV294cHFJb091V1NhQ2Z0MnVzdVhuQmV4UzRZa1VqcG1QcEpSZURmWDdaUHp0dkVWRjg5aGVOek5TMnM?oc=5): Beinsure · 2026-11-26 · _Funding rounds_
-- [PhonePe resumes IPO plans, targets early 2027 listing](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHJjM1gxYTlrM0hLdmk2RHJ0bFpUTmdVYnBCNG93dGhsRV9WR3BZT2wwdUhKdlNaNEdsSW9LLWdzcXpFWXdqMThzUllMYmpPa243SmJJY0FjSWhMWVFMS2piWGl3OHE1N2F0WnlDajRtaDV3bjN1dE1KQndDZno2R2VWYVhySU1VbnFUaHVWejItdkU2X01NcDhuNGpRbmdWN2RGbGlhMU1rRzlXMVRXMk9tYkRRUdIBtgFBVV95cUxNVHJjM1gxYTlrM0hLdmk2RHJ0bFpUTmdVYnBCNG93dGhsRV9WR3BZT2wwdUhKdlNaNEdsSW9LLWdzcXpFWXdqMThzUllMYmpPa243SmJJY0FjSWhMWVFMS2piWGl3OHE1N2F0WnlDajRtaDV3bjN1dE1KQndDZno2R2VWYVhySU1VbnFUaHVWejItdkU2X01NcDhuNGpRbmdWN2RGbGlhMU1rRzlXMVRXMk9tYkRRUQ?oc=5): BMI · 2026-11-26 · _IPOs_
-- [CommVault Systems Bets on Cloud and AI Recovery as CFO Search Continues](https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2pSUHdNdzBIN3UtQ2o2MXVOei05RVRRRTQ5c1FxekhuMGxjSmdKa095anlTMVRHNkNiSGZER2hxcTVPTFVWZEo0TWN1RzIxWGxNMjk4TVVOVkU4WkdQcUVnSTVLMGNOYUJ1X3B4MGhsbUFRTEdnN3V4N0FZck1LU0tsd3VXcXhRT0lTVy1nZ3RzOWpteE5Xb1RUVQ?oc=5): Yahoo Finance · 2026-11-26
-- [Ant affiliate raises P14.8 billion from GCash IPO, retains P32.5 billion in Mynt shares](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmZsMEp4aU5XX2JFV1JEUFZrQk43a05kb1ROaXVqc0xudFVKeWJpcUpfS3lkQmMtM2VxcjVEaG1EZ1lGV0RlUWtKVExmQjNTNDZ3TllhTlp0UmtiZmdCVmZzaGtOZU1DV2xsV0dfU0NLbmRrMEdIZXFGS3ItM2dkNTl6Mlk4R2FLRTkxSkxJeVRTZmNweDl4REliQU44SzJoMlVJV3M1b1NxU1M4YU1j?oc=5): Bilyonaryo Business · 2026-11-26 · _IPOs, Funding rounds_
-- [PhonePe targets 2027 IPO at up to $15b valuation](https://news.google.com/rss/articles/CBMiekFVX3lxTE9IVEZ5RjFjNzVhSU1FVFM5MElZNmtnelZGWi15VGd4MjhIWi1McTJPS2ZoNVpCNGpGU2hLUzNFMktHQWhCcmpoUmRfNHlKaE5LWTM5YUU2M0ZvZlpHLVdRSk5qTUl5UFRjamxBSTRXR2RIQjhlRjRud093?oc=5): Tech in Asia · 2026-11-26 · _IPOs_
-- [Jordanian Fintech invoiceQ Raises $5 Million in Series A Funding](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVhWOUcyX3E4VXJzT1c3blhHVmJrMFNKOEFMZmNTeWFkZnBGck9iR0RjX2NHUllsc3ZzU1BkRmFwanNxWlYtNlN2MmNvcWlGcGZTX0k5c2tLdFU5dHBTbDJyeHFFWEdZbC1iSUt1M3QzT1loSVVHX0hJNUhaZkc5STZYaW1EVXNkSnUzSU5LSVIxVFUtWTFUQXhzWQ?oc=5): CairoScene · 2026-11-25 · _Funding rounds_
-- [Online estate planner Safewill raises $15 million Series C](https://news.google.com/rss/articles/CBMiowFBVV95cUxPekNNSkNSUXc2U3lVVGFKbkFncFNNTW95c3dBekNUZjdfQWdqZTIxajdXSHp5bnZjWHRscjloUGNPSUw1NGhlUmdicWZta09FQlg2ZS1KenlSNHpVenB6b2lmblRuZWpzcWlBLW13R2NlZmdOX05FeXFiVkx6eTZ5d2hBN25WYTJtR0tTTlJuWjMtcEZCNDB2dy1qWFNzS3FERDlB?oc=5): Startup Daily · 2026-11-25 · _Funding rounds_
 
 ## Source health
 
 - ✅ **SEC EDGAR**: 25 matching filings
 - ✅ **Market data**: 16 tickers
-- ✅ **News feeds**: 112 headlines from 7 feeds
+- ✅ **News feeds**: 97 headlines from 7 feeds
 
 ---
 *Generated automatically by [fintech-signal-tracker](https://github.com/adij26/fintech-signal-tracker). Public data only. Not investment advice.*
